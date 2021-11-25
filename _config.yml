@@ -127,6 +127,7 @@ content:
           [BibTex]
 
       - layout: left
+        # title: 2021
         description: | # this will include new lines to allow paragraphs
           ## **Quadratic Terms based Point-to-Surface 3D Representation for Deep Learning of Point Cloud**
 
@@ -139,6 +140,7 @@ content:
           [BibTex]
           
       - layout: left
+        # title: 2021
         description: | # this will include new lines to allow paragraphs
           ## **SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer**
 
