@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   Meanwhile, I start my internship at Megvii Research since 2018. My research interests include Generative Adversarial Networks (GAN), image processing, etc.
 
 content:
-  - title: Education & Experience # Title for the section
+  - title: Education and Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
