@@ -61,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: UESTC
+        sub_title: Uinversity of Electronic Science and Technology of China (UESTC)
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
@@ -70,7 +70,7 @@ content:
             ## **Ph.D. in Information and Communication Engineering**
 
       - layout: left
-        title: UESTC
+        sub_title: Uinversity of Electronic Science and Technology of China (UESTC)
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
@@ -79,7 +79,7 @@ content:
             ## **M.Sc. in Information and Communication Engineering**
 
       - layout: left
-        title: UPC
+        sub_title: China University of Petroleum (UPC)
         # link: bmwgroup.com
         # link_text: bmwgroup.com
         # sub_title:  
