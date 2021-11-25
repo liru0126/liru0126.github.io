@@ -128,7 +128,7 @@ content:
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:wTKe9EwnqrgJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RuVNzQ:AAGBfm0AAAAAYZ-TLzRp9SlMufWIlSjwk5INj_C2c3f-&scisig=AAGBfm0AAAAAYZ-TLyiFuWClDAc3ljw0JzPOWeKheCzA&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
     
       - layout: left
-        title: 2021
+        # title: 2021
         description: | # this will include new lines to allow paragraphs
           ## **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data**
 
@@ -257,6 +257,20 @@ content:
           [Github]
           [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:Kv32L_F4IRQJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RtrkZ8:AAGBfm0AAAAAYZ9tiZ88crDG2V-PJ_LiiJbkoFn7oIC3&scisig=AAGBfm0AAAAAYZ9tiVXnSKNgB3arEleNk6X92XByM-Qq&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Driver Monitor System
+        caption: Dec. 2018 - Jul. 2019
+        sub_title: Major member
+        description: | # this will include new lines to allow paragraphs
+          I am responsible for designing a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, 
+          and drinking in driving. Participated in the overall pipeline of algorithm development, including data collection, 
+          data cleaning, algorithm development, and upgrading.
+        video_path: images/DMS_smoke_demo1.mp4
+        video_path1: images/DMS_smoke_demo2.mp4
+        video_path2: images/DMS_phone_demo.mp4
            
 # Footer
 footer_show_references: true
