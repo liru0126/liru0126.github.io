@@ -69,6 +69,17 @@ content:
             ## **Uinversity of Electronic Science and Technology of China (UESTC)**
 
             Signal and Information Processing
+           
+      - layout: left
+        title: M.Sc.
+        # link: grubhub.com
+        # link_text: grubhub.com
+        # sub_title: Signal and Information Processing
+        caption: Sep. 2016 - Jul. 2018
+        description: | # this will include new lines to allow paragraphs
+            ## **Uinversity of Electronic Science and Technology of China (UESTC)**
+
+            Signal and Information Processing
 
           
 # Footer
