@@ -89,9 +89,27 @@ content:
         # sub_title: Electronic Information Engineering
         caption: Sep. 2012 - Jul. 2016
         description: | # this will include new lines to allow paragraphs     
-            ## ** China University of Petroleum (UPC)**
+            ## **China University of Petroleum (UPC)**
 
             Electronic Information Engineering
+           
+      - layout: left
+        title: Visiting student
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption: Jul. 2019 - Otc. 2019
+        description: | # this will include new lines to allow paragraphs
+          ## **University of Oxford**
+            
+      - layout: left
+        title: Intern
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption: Mar. 2018 - Present
+        description: | # this will include new lines to allow paragraphs
+          ## **Megvii Research**
 
 
   - title: Publications # Title for the section
