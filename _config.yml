@@ -70,7 +70,7 @@ content:
 
             Signal and Information Processing
         
-        - layout: left
+      - layout: left
         title: M.Sc.
         # link: grubhub.com
         # link_text: grubhub.com
@@ -80,6 +80,17 @@ content:
             ## **Uinversity of Electronic Science and Technology of China (UESTC)**
 
             Signal and Information Processing
+            
+      - layout: left
+        title: B.E.
+        # link: bmwgroup.com
+        # link_text: bmwgroup.com
+        # sub_title: Electronic Information Engineering
+        caption: Sep. 2012 - Jul. 2016
+        description: | # this will include new lines to allow paragraphs     
+            ## **China University of Petroleum (UPC)**
+
+            Electronic Information Engineering
 
            
 # Footer
