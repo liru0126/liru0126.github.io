@@ -56,7 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
   
 
 content:
-
   - title: Education & Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -111,11 +110,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Megvii Research**
 
-
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
       - layout: left
         title: 2021
         description: | # this will include new lines to allow paragraphs
