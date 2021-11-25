@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
   [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). 
   Meanwhile, I start my internship at Megvii Research since 2018. My research interests include Generative Adversarial Networks (GAN), image processing, etc.
-  
 
 content:
   - title: Education & Experience # Title for the section
@@ -122,19 +121,6 @@ content:
 
           **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
 
-          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
-          [[Github](https://github.com/hxwork/OMNet)]
-          [BibTex]
-
-      - layout: left
-        # title: 2021
-        description: | # this will include new lines to allow paragraphs
-          ## **Quadratic Terms based Point-to-Surface 3D Representation for Deep Learning of Point Cloud**
-
-          *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), to appear, 2021*
-
-          Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
-          
           [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
           [[Github](https://github.com/hxwork/OMNet)]
           [BibTex]
