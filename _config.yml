@@ -130,19 +130,6 @@ content:
           [[Github](https://github.com/hxwork/OMNet)]
           [BibTex]
 
-      - layout: left
-        title: 2021
-        description: | # this will include new lines to allow paragraphs
-          ## **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks**
-
-        quote: >
-          IEEE Transactions on Image Processing (**TIP**), to appear, 2021
-
-        description: |
-          **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
-
-          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
-          [[Github](https://github.com/hxwork/OMNet)]
 
 # Footer
 footer_show_references: true
