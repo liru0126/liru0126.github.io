@@ -117,12 +117,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
     
-      - layout: top-middle
-        title: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration
-        quote: >
-          IEEE Transactions on Image Processing (TIP)
+      - layout: left
+        title: 2021
         description: | # this will include new lines to allow paragraphs
-          ##**Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng 
+          JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks
+
+          IEEE Transactions on Image Processing (**TIP**), to appear, 2021
+
+          ## **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
           
     
       - layout: left
