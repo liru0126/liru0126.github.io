@@ -265,9 +265,9 @@ content:
         sub_title: Major member
         caption: Dec. 2018 - Jul. 2019
         description: | # this will include new lines to allow paragraphs
-          Participated in distraction detection project to design a light-weighted end-to-end network running on an onboard chip, which detects smoking, phoning, 
+          - Participated in distraction detection project to design a light-weighted end-to-end network running on an onboard chip, which detects smoking, phoning, 
           and drinking in driving. 
-          Involved in the overall pipeline of algorithm development, including data collection, data cleaning, algorithm development, and upgrading.
+          - Involved in the overall pipeline of algorithm development, including data collection, data cleaning, algorithm development, and upgrading.
         video_path: images/DMS_smoke_demo1.mp4
         video_path1: images/DMS_smoke_demo2.mp4
         video_path2: images/DMS_phone_demo.mp4
