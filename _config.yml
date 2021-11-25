@@ -60,9 +60,6 @@ content:
     content:
       - layout: left
         title: Ph.D. 
-        # link: grubhub.com
-        # link_text: grubhub.com
-        # sub_title: Signal and Information Processing
         caption: Sep. 2018 - Present
         description: | # this will include new lines to allow paragraphs
             ## **Uinversity of Electronic Science and Technology of China (UESTC)**
@@ -71,9 +68,6 @@ content:
 
       - layout: left
         title: M.Sc.
-        # link: grubhub.com
-        # link_text: grubhub.com
-        # sub_title: Signal and Information Processing
         caption: Sep. 2016 - Jul. 2018
         description: | # this will include new lines to allow paragraphs
             ## **Uinversity of Electronic Science and Technology of China (UESTC)**
@@ -82,9 +76,6 @@ content:
 
       - layout: left
         title: B.E.
-        # link: bmwgroup.com
-        # link_text: bmwgroup.com
-        # sub_title: Electronic Information Engineering
         caption: Sep. 2012 - Jul. 2016
         description: | # this will include new lines to allow paragraphs     
             ## **China University of Petroleum (UPC)**
@@ -93,38 +84,15 @@ content:
 
      - layout: left
         title: Visiting student
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
         caption: Jul. 2019 - Otc. 2019
         description: | # this will include new lines to allow paragraphs
           ## **University of Oxford**
             
       - layout: left
         title: Intern
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
         caption: Mar. 2018 - Present
         description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 2021
-        description: | # this will include new lines to allow paragraphs
-          ## **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks**
-
-          *IEEE Transactions on Image Processing (**TIP**), to appear, 2021*
-
-          **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
-
-          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
-          [[Github](https://github.com/hxwork/OMNet)]
-          [BibTex]
-         
+          ## **Megvii Research**         
           
 # Footer
 footer_show_references: true
