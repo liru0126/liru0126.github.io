@@ -70,43 +70,6 @@ content:
             ## **Uinversity of Electronic Science and Technology of China (UESTC)**
 
 
-      - layout: left
-        title: M.Sc.Uinversity of Electronic Science and Technology of China (UESTC)
-        # link: grubhub.com
-        # link_text: grubhub.com
-        sub_title: Signal and Information Processing
-        caption: Sep. 2016 - Jul. 2018
-        description: | # this will include new lines to allow paragraphs
-            ## **Uinversity of Electronic Science and Technology of China (UESTC)**
-
-      - layout: left
-        title: B.E.
-        # link: bmwgroup.com
-        # link_text: bmwgroup.com
-        sub_title: Electronic Information Engineering
-        caption: Sep. 2012 - Jul. 2016
-        description: | # this will include new lines to allow paragraphs     
-            ## ** China University of Petroleum (UPC)**
-
-     - layout: left
-        title: Visiting student
-        # link: www.msg.group
-        # link_text: msg.group
-        sub_title: Computer science
-        caption: Jul. 2019 - Otc. 2019
-        description: | # this will include new lines to allow paragraphs
-          ## **University of Oxford**
-            
-      - layout: left
-        title: Intern
-        # link: www.msg.group
-        # link_text: msg.group
-        # sub_title: 
-        caption: Mar. 2018 - Present
-        description: | # this will include new lines to allow paragraphs
-          ## **Megvii Research**
-
-
   - title: Publications # Title for the section
   
     layout: list # Type of content section (list/text)
