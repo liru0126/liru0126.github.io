@@ -101,6 +101,15 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## **University of Oxford**
             
+      - layout: left
+        title: Intern
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption: Mar. 2018 - Present
+        description: | # this will include new lines to allow paragraphs
+            ## **Megvii Research**
+            
            
 # Footer
 footer_show_references: true
