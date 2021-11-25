@@ -263,7 +263,7 @@ content:
       - layout: left
         title: Driver Monitor System
         sub_title: Major member
-        caption: Dec. 2018 - Jul. 2019
+        caption: Sep. 2018 - Dec. 2018
         description: | # this will include new lines to allow paragraphs
           - Participated in distraction detection project to design a light-weighted end-to-end network running on an onboard chip, which detects smoking, phoning, 
           and drinking in driving. 
@@ -291,3 +291,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ 
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
