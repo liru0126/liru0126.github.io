@@ -61,13 +61,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Uinversity of Electronic Science and Technology of China (UESTC)
+        title: UESTC
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: 
         caption: Sep. 2018 - Present
         description: | # this will include new lines to allow paragraphs
-            ## **Ph.D. in Information and Communication Engineering**
+            Ph.D. in Information and Communication Engineering
 
       - layout: left
         title: Uinversity of Electronic Science and Technology of China (UESTC)
