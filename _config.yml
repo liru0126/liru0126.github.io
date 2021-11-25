@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Ru Li
-title: Ph.D in UESTC
+title: Ph.D. in UESTC
 email: liru@std.uestc.edu.cn
-website: liru0126.github.io
+# website: liru0126.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -34,9 +34,9 @@ additional_links:
 - title: google scholar
   icon: fab fa-google
   url: https://scholar.google.com.sg/citations?hl=zh-CN&user=4cHM8rYAAAAJ
-- title: another link
-  icon: fas fa-envelope
-  url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=liru@std.uestc.edu.cn
+# - title: another link
+#   icon: fas fa-envelope
+#   url: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=liru@std.uestc.edu.cn
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -49,13 +49,87 @@ additional_links:
 about_title: Biography
 about_profile_image: images/landscape-trees.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a fourth-year Ph.D student of machine learning and computer vision under the supervision of 
+  I am a fourth-year Ph.D. student of machine learning and computer vision under the supervision of 
   [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
   [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) at University of Electronic Science and Technology of China (UESTC). 
-  Meanwhile, I start my internship at Megvii Research since 2018. My research interests include Generative Adversarial Networks (GAN), 2D image processing, etc.
+  Meanwhile, I start my internship at Megvii Research since 2018. My research interests include Generative Adversarial Networks (GAN), image processing, etc.
   
 
 content:
+
+  - title: Education & Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Uinversity of Electronic Science and Technology of China (UESTC)
+        # link: grubhub.com
+        # link_text: grubhub.com
+        # sub_title: 
+        caption: Sep. 2018 - Present
+        description: | # this will include new lines to allow paragraphs
+            ## **Ph.D. in Information and Communication Engineering**
+
+      - layout: left
+        title: Uinversity of Electronic Science and Technology of China (UESTC)
+        # link: grubhub.com
+        # link_text: grubhub.com
+        # sub_title: 
+        caption: Sep. 2016 - Jul. 2018
+        description: | # this will include new lines to allow paragraphs
+            ## **M.Sc. in Information and Communication Engineering**
+
+      - layout: left
+        title: China University of Petroleum (UPC)
+        # link: bmwgroup.com
+        # link_text: bmwgroup.com
+        # sub_title:  
+        caption: Sep. 2012 - Jul. 2016
+        description: | # this will include new lines to allow paragraphs     
+            ## **B.E. in Electronic Information Engineering**
+            
+      - layout: left
+        title: Megvii Research
+        # link: www.msg.group
+        # link_text: msg.group
+        # sub_title: 
+        caption: Mar. 2018 - Present
+        description: | # this will include new lines to allow paragraphs
+          ## **Algorithm Researcher (Intern)**
+
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: ICCV 2021
+        # caption: 
+        sub_title: <green_mark>Poster paper</green_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration**
+          
+          **Hao Xu**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng 
+
+          ![OMNet](./images/OMNet.png)
+          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)]
+          [Github: [Pytorch](https://github.com/hxwork/OMNet), [MegEngine](https://github.com/megvii-research/OMNet)]
+          [Video: [Youtube](https://www.youtube.com/watch?v=u2lTKsom8oU), [Bilibili](https://www.bilibili.com/video/BV1Ef4y1J7XP/)]
+          [BibTex]
+
+      - layout: left
+        title: AAAI 2022
+        # caption: 
+        sub_title: <blue_mark>Under review</blue_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration**
+
+          **Hao Xu**, Nianjin Ye, Shuaicheng Liu, Guanghui Liu, Bing Zeng 
+
+          ![FINet](./images/FINet.png)
+          [[PDF](https://arxiv.org/pdf/2106.03479.pdf)]
+          [[Github](https://github.com/hxwork/FINet)]
+          [Video: [Youtube], [Bilibili]]
+          [BibTex]
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
