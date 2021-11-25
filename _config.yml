@@ -64,10 +64,12 @@ content:
         title: Ph.D. 
         # link: grubhub.com
         # link_text: grubhub.com
-        sub_title: Signal and Information Processing
+        # sub_title: Signal and Information Processing
         caption: Sep. 2018 - Present
         description: | # this will include new lines to allow paragraphs
             ## **Uinversity of Electronic Science and Technology of China (UESTC)**
+
+            Signal and Information Processing
 
 
   - title: Publications # Title for the section
