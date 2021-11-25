@@ -271,6 +271,12 @@ content:
         video_path: images/DMS_smoke_demo1.mp4
         video_path1: images/DMS_smoke_demo2.mp4
         video_path2: images/DMS_phone_demo.mp4
+        
+  - title: Reviewers # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      - Journal: Signal Processing Letters (SPL); Computer Graphic Form (CGF)
+      - Conference: AAAI; Pacific Grafic (PG)
            
 # Footer
 footer_show_references: true
