@@ -122,7 +122,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks**
 
-          IEEE Transactions on Image Processing (**TIP**), to appear, 2021
+          *IEEE Transactions on Image Processing (**TIP**), to appear, 2021*
 
           **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
 
