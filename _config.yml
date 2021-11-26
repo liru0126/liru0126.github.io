@@ -27,7 +27,7 @@ github_username:  liru0126
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0002-7249-6848
+# orcid_username: 0000-0002-7249-6848
 
 # Additional icon links
 additional_links:
@@ -125,7 +125,7 @@ content:
 
           [[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3481029)]
           [Github]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:wTKe9EwnqrgJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RuVNzQ:AAGBfm0AAAAAYZ-TLzRp9SlMufWIlSjwk5INj_C2c3f-&scisig=AAGBfm0AAAAAYZ-TLyiFuWClDAc3ljw0JzPOWeKheCzA&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+          [BibTex]
     
       - layout: left
         # title: 2021
@@ -177,7 +177,7 @@ content:
           
           [[PDF](http://liushuaicheng.org/TIP/SDPGAN/SDPGAN-TIP.pdf)]
           [[Github](https://github.com/liru0126/SDP-GAN)]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:-M_dxm-pX5kJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29Rtt94Y:AAGBfm0AAAAAYZ9r74bW1gyUro3hB0wK0mcgI3uKkoKs&scisig=AAGBfm0AAAAAYZ9r7_22OCu7DHTXiSpJICPblJX5VWn3&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+          [BibTex]
           
       - layout: left
         # title: 2020 
@@ -190,7 +190,7 @@ content:
           
           [[PDF](http://www.liushuaicheng.org/CVIU/Exposure-Montage-CVIU.pdf)]
           [Github]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:iX_Pb5JdYPgJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RtqXjs:AAGBfm0AAAAAYZ9sRjv5SV9JLIUk5KTZj9Wb6sja5aOY&scisig=AAGBfm0AAAAAYZ9sRmzXa_m61iA0cdCIHrtCtQ7pt7BE&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+          [BibTex]
 
       - layout: left
         # title: 2020 
@@ -203,7 +203,7 @@ content:
           
           [[PDF](http://www.liushuaicheng.org/INS/3DLD_IS.pdf)]
           [Github]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:EMaVxISMTv4J:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29Rtqn2I:AAGBfm0AAAAAYZ9sh2KQ6J9bjVvlc23FNpVl0K2ws2ts&scisig=AAGBfm0AAAAAYZ9sh0O133r5cB_7xaSZZPla_bbIRuVp&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+          [BibTex]
 
       - layout: left
         title: 2019
@@ -216,7 +216,7 @@ content:
           
           [[PDF](https://ieeexplore.ieee.org/abstract/document/8803689)]
           [Github]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:4Pl5_ZPmbvYJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RtqtF8:AAGBfm0AAAAAYZ9srF9xpz-ACxyuYr63muGEB2DsntJf&scisig=AAGBfm0AAAAAYZ9srFPTQHDqP2hqBh4xAOmMmfZ1zmax&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
+          [BibTex]
 
       - layout: left
         title: 2018
@@ -229,7 +229,7 @@ content:
           
           [[PDF](http://www.liushuaicheng.org/ICIP/2018/HDR_ICIP18.pdf)]
           [Github]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:-87rfPbBywgJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RtrGao:AAGBfm0AAAAAYZ9tAaoahz0wVb-RX7wlHOhxQj3ZIxCm&scisig=AAGBfm0AAAAAYZ9tAdT3TRdjghHFTlVZmuBj0N-o8wFb&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+          [BibTex]
 
       - layout: left
         title: 2016
@@ -242,7 +242,7 @@ content:
           
           [[PDF](https://ieeexplore.ieee.org/abstract/document/7877946)]
           [Github]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:UZWd2xLqBUkJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RtrIDI:AAGBfm0AAAAAYZ9tODJggwRrZ6uooNT4myQmu9khIJsS&scisig=AAGBfm0AAAAAYZ9tOCnNaUUzo9wEEiTbUK9yKfO80tZ0&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+          [BibTex]
 
       - layout: left
         # title: 2016 
@@ -255,7 +255,7 @@ content:
           
           [[PDF](https://ieeexplore.ieee.org/abstract/document/7877948)]
           [Github]
-          [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:Kv32L_F4IRQJ:scholar.google.com/&output=citation&scisdr=CgX3wfUqEIy29RtrkZ8:AAGBfm0AAAAAYZ9tiZ88crDG2V-PJ_LiiJbkoFn7oIC3&scisig=AAGBfm0AAAAAYZ9tiVXnSKNgB3arEleNk6X92XByM-Qq&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+          [BibTex]
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
