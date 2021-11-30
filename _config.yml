@@ -101,6 +101,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## **University of Oxford**
             
+            [Computational Health Informatics (CHI) Lab](https://eng.ox.ac.uk/chi/)
+            
       - layout: left
         title: Intern
         # link: www.msg.group
