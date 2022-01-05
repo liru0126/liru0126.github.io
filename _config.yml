@@ -128,19 +128,6 @@ content:
           [[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3481029)]
           [Github]
           [BibTex]
-    
-      - layout: left
-        # title: 2021
-        description: | # this will include new lines to allow paragraphs
-          ## **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data**
-
-          *Preprint*
-
-          **Ru Li**, Chuan Wang, Shuaicheng Liu, Jue Wang, Guanghui Liu, Bing Zeng
-
-          [[PDF](https://arxiv.org/pdf/2102.01850.pdf)]
-          [Github]
-          [BibTex]
           
       - layout: left
         # title: 2021
@@ -165,6 +152,19 @@ content:
           Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
           
           [PDF]
+          [Github]
+          [BibTex]
+          
+      - layout: left
+        # title: 2021
+        description: | # this will include new lines to allow paragraphs
+          ## **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data**
+
+          *Preprint*
+
+          **Ru Li**, Chuan Wang, Shuaicheng Liu, Jue Wang, Guanghui Liu, Bing Zeng
+
+          [[PDF](https://arxiv.org/pdf/2102.01850.pdf)]
           [Github]
           [BibTex]
           
