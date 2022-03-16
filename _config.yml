@@ -49,8 +49,8 @@ additional_links:
 about_title: Biography
 about_profile_image: images/liru10.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate of [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), 
-  supervised by [Prof. Guanghui LIU](https://scholar.google.com.hk/citations?user=AjfD95EAAAAJ&hl=zh-CN&oi=ao) and 
+  I am a Ph.D. candidate of the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), 
+  supervised by [Prof. Guanghui LIU](https://www.researchgate.net/profile/Guanghui-Liu-7) and 
   [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/). 
   My research interests include: computer vision and image processing.
 
@@ -134,11 +134,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks**
 
-          *IEEE Transactions on Image Processing (**TIP**), to appear, 2021*
+          *IEEE Transactions on Image Processing (**TIP**),  vol. 31, pp. 513-524, 2021*
 
           **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
 
-          [PDF]
+          [PDF](http://www.liushuaicheng.org/TIP/JigsawGAN.pdf)
           [Github]
           [BibTex]
 
