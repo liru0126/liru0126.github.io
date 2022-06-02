@@ -279,6 +279,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Journal:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
       - **Conference:** AAAI; Pacific Graphics (PG)
+        
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-91629881-1
            
 # Footer
 footer_show_references: true
