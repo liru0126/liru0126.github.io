@@ -286,7 +286,7 @@ content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
-reference_title: Last Updata: June 2022
+# reference_title: Last Updata: June 2022
 
 # Build settings
 # remote_theme: sproogen/resume-theme
