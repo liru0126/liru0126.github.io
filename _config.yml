@@ -277,8 +277,8 @@ content:
   - title: Reviewers # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      - **Journal:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
-      - **Conference:** AAAI; Pacific Graphics (PG)
+      - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
+      - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
         
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: G-LBJ8FXMTEY
