@@ -281,7 +281,6 @@ content:
       - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
         
 # Google Analytics
-jekyll.environment == 'production'
 google_analytics: true
 
            
