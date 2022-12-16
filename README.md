@@ -1,6 +1,6 @@
 # liru0126.github.io
 
-Ru Li's personal page.
+Ru Li （李茹）'s personal page.
 
 [Demo](https://liru0126.github.io/)
 
