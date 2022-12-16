@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ru Li (李茹)
+name: Ru Li（李茹）
 # title: Ph.D. in UESTC
 email: liru@std.uestc.edu.cn
 # website: liru0126.github.io
@@ -64,7 +64,7 @@ content:
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: Signal and Information Processing
-        caption: Sep. 2018 - Present
+        caption: Sep. 2018 - Dec.2022
         description: | # this will include new lines to allow paragraphs
             ## **University of Electronic Science and Technology of China (UESTC)**
 
@@ -126,7 +126,7 @@ content:
           **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
           [PDF]
-          [Github](https://github.com/liru0126/UPHDR-GAN)
+          [[Github](https://github.com/liru0126/UPHDR-GAN)]
           [BibTex]
     
       - layout: left
