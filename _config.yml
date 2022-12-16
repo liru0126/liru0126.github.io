@@ -64,7 +64,7 @@ content:
         # link: grubhub.com
         # link_text: grubhub.com
         # sub_title: Signal and Information Processing
-        caption: Sep. 2018 - Dec.2022
+        caption: Sep. 2018 - Present
         description: | # this will include new lines to allow paragraphs
             ## **University of Electronic Science and Technology of China (UESTC)**
 
@@ -151,7 +151,7 @@ content:
 
           **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
 
-          [PDF]
+          [[PDF](https://ieeexplore.ieee.org/abstract/document/9640580/)]
           [Github]
           [BibTex]
 
@@ -164,7 +164,7 @@ content:
 
           Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
           
-          [PDF]
+          [[PDF](https://ieeexplore.ieee.org/abstract/document/9475448/)]
           [Github]
           [BibTex]
           
