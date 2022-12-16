@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ru Li
-title: Ph.D. in UESTC
+name: Ru Li (李茹)
+# title: Ph.D. in UESTC
 email: liru@std.uestc.edu.cn
 # website: liru0126.github.io
 
@@ -121,12 +121,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data**
 
-          *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), to appear, 2022*
+          *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 32, no. 11, pp. 7532-7546, 2022*
 
           **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
           [PDF]
-          [Github]
+          [Github](https://github.com/liru0126/UPHDR-GAN)
           [BibTex]
     
       - layout: left
