@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Machine Learning supervised by [Thomas Schön](https://user.it.uu.se/~thosc112/) and co-supervised by [Jens Sjölund](https://jsjol.github.io/) at [Uppsala University](https://www.uu.se/en). My research interest generally includes **Machine Learning**, **Computer Vision**, and **Reinforcement Learning**. And my recent works mainly focus on Probabilistic deep learning with application in computer vision.
-
-I received my Master of Engineering degree from the School of Computer Science, Chengdu University of Information Technology, advised by [Jing Hu](https://jsjxy.cuit.edu.cn/info/1063/1806.htm). During the school, I participated in the project of performing image registration via reinforcement learning, under the advising of [Xin Wang](https://scholar.google.com/citations?user=jUWx8fcAAAAJ) and [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/) from the University at Buffalo, SUNY. Before that, I obtained the Bachelor degree from Hebei University of Technology. I had been a research assistant at Megvii Technology Ltd., China, working with [Shuaicheng Liu](http://www.liushuaicheng.org/).
+I am a Ph.D. candidate of the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), supervised by [Prof. Guanghui LIU](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/). My research interests include: computer vision and image processing.
 
 
 # News
-- *2022.08*: &nbsp;🎉🎉 I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP).
+- *2022.07*: &nbsp;🎉 I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP).
 
 # Publications 
 
@@ -42,23 +40,13 @@ I received my Master of Engineering degree from the School of Computer Science, 
 <div class='paper-box'><div class='paper-box-image'><img src='images/BSRT.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment**  
-<u>Ziwei Luo</u>, Youwei Li, Shen Cheng, Lei Yu, Qi Wu, Zhihong Wen, Haoqiang Fan, Jian Sun, Shuaicheng Liu
+**UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data**  
+**Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 32, no. 11, pp. 7532-7546, 2022*
 
-**<font color = "#224B8D">CVPRW 2022</font>** \| [Paper](https://arxiv.org/abs/2204.08332) \| [Code](https://github.com/Algolzw/BSRT) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-- <span style="color:red">**Champion**</span> of the NTIRE Burst Super-Resolution Challenge 2022 in Real track.
+[Paper](https://ieeexplore.ieee.org/abstract/document/9826814/) \| [Github](https://github.com/liru0126/UPHDR-GAN) \| [Code](https://github.com/Algolzw/BSRT) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
-<!-- ###################################################### -->
-
-- **A Spatiotemporal Agent for Robust Multimodal Registration**  
-<u>Ziwei Luo</u>, Xin Wang, Xi Wu, Youbing Yin, Kunlin Cao, Qi Song, Jing Hu  
-***<font color = "#224B8D">IEEE ACCESS 2020</font>*** \| [[Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09075173.pdf)]
-
-# Educations
-- *2018.09 - 2021.06*, Master, Chengdu University of Information Technology. 
-- *2011.09 - 2015.06*, Undergraduate, Hebei University of Technology.
 
 # Academic Services
 ### Journal Reviewer 
