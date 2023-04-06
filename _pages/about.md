@@ -79,4 +79,4 @@ I received my Master of Engineering degree from the School of Computer Science, 
 - International Conference on Intelligent Robots and Systems (IROS) 2022
 
 # Experience
-- *2022.09 - present*, PhD student, at [Uppsala university](https://www.uu.se/en), Sweden.
+- *2022.09 - present*, PhD student, at [Uppsala university](https://www.uu.se/en)
