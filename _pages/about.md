@@ -21,7 +21,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 
 # News
-- 🎉 *2022.06*: &nbsp; I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP) 
+- *2022.06*: &nbsp; I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP) 
 
 # Publications 
 
@@ -37,7 +37,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 <!-- ################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="50%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
