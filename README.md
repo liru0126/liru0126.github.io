@@ -1,7 +1,7 @@
+# liru0126.github.io
 
-<h1 align="center">
-Ziwei's Academic Homepage
-</h1>
+Ru Li's personal page.
 
---
+[Demo](https://liru0126.github.io/)
 
+Last update: 2022.12
