@@ -67,11 +67,9 @@ I received my Master of Engineering degree from the School of Computer Science, 
 - *2020* **The First Prize Scholarship**, Chengdu University of Information Technology
 - *2020* **National Scholarship**, China
 
-
 # 📖 Educations
 - *2018.09 - 2021.06*, Master, Chengdu University of Information Technology. 
 - *2011.09 - 2015.06*, Undergraduate, Hebei University of Technology.
-
 
 # 📫 Academic Services
 ### Journal Reviewer 
@@ -80,8 +78,5 @@ I received my Master of Engineering degree from the School of Computer Science, 
 ### Conference Reviewer
 - International Conference on Intelligent Robots and Systems (IROS) 2022
 
-# Experience
+#   Experience
 - *2022.09 - present*, PhD student, at [Uppsala university](https://www.uu.se/en), Sweden.
-- *2021.07 - 2022.07*, Research Assistant, at [Megvii Technology](https://megvii.com/), China.
-- *2020.11 - 2021.06*, Research Intern, at [Megvii Technology](https://megvii.com/), China.
-- *2018.11 - 2020.06*, Research Assistant, at [Chengdu University of Information Technology.](https://www.cuit.edu.cn/), China.
