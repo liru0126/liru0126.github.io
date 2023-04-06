@@ -51,8 +51,8 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 </div>
 
 # Academic Services
-### Journal Reviewer 
-- IEEE Transactions on Image Processing (TIP)
+- **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
+- **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
 
 ### Conference Reviewer
 - International Conference on Intelligent Robots and Systems (IROS) 2022
