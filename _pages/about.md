@@ -56,56 +56,6 @@ I received my Master of Engineering degree from the School of Computer Science, 
 
 <!-- ###################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/DCLS.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Deep Constrained Least Squares for Blind Image Super-Resolution**  
-<u>Ziwei Luo</u>, Haibin Huang, Lei Yu, Youwei Li, Haoqiang Fan, Shuaicheng Liu
-
-**<font color = "#224B8D">CVPR 2022</font>** \| [Paper](https://arxiv.org/pdf/2202.07508) \| [Code](https://github.com/megvii-research/DCLS-SR) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-- This work proposes to disentangle deblurring and upsampling in blind super-resolution, and provides a theoretical guidance to make use of the kernel.
-<!-- - A deep constrained least square filtering module is applied in the feature space to generate clean features based on the estimated kernel. -->
-</div>
-</div>
-
-<!-- ###################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/SPAC.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration**  
-<u>Ziwei Luo</u>\*, Jing Hu\*, Xin Wang, Shu Hu, Bin Kong, Youbing Yin, Qi Song, Xi Wu, Siwei Lyu
-
-**<font color = "#224B8D">AAAI 2022</font>** \| [Paper](https://arxiv.org/pdf/2112.07415) \| [Code](https://github.com/Algolzw/SPAC-Deformable-Registration) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:eQOLeE2rZwMC'></span></strong>
-- It is the first work that performs deformable image registration via high-dimensional action deep reinforcement learning.
-<!-- - We introduce a latent vector that can represent the high-dimensional action and be optimized in an Actor-Critic RL framework. -->
-</div>
-</div>
-
-<!-- ###################################################### -->
-
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/EBSR.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**EBSR: Feature enhanced burst super-resolution with deformable alignment**  
-<u>Ziwei Luo</u>, Lei Yu, Xuan Mo, Youwei Li, Lanpeng Jia, Haoqiang Fan, Jian Sun, Shuaicheng Liu
-
-**<font color = "#224B8D">CVPRW 2021</font>** \| [Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Luo_EBSR_Feature_Enhanced_Burst_Super-Resolution_With_Deformable_Alignment_CVPRW_2021_paper.pdf) \| [Code](https://github.com/Algolzw/EBSR) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:2osOgNQ5qMEC'></span></strong>
-- <span style="color:red">**Champion**</span> of the NTIRE Burst Super-Resolution Challenge 2021 in Real track
-</div>
-</div>
-
-<!-- ###################################################### -->
-
-- **Stochastic Actor-Executor-Critic for Image-to-Image Translation**  
-<u>Ziwei Luo</u>\*, Jing Hu\*, Xin Wang, Siwei Lyu, Bin Kong, Youbing Yin, Qi Song, Xi Wu  
-***<font color = "#224B8D">IJCAI 2021</font>*** \| [[Paper](https://arxiv.org/pdf/2112.07403)]
-
-- **End-to-end multimodal image registration via reinforcement learning**  
-Jing Hu, <u>Ziwei Luo</u>, Xin Wang, Shanhui Sun, Youbing Yin, Kunlin Cao, Qi Song, Siwei Lyu, Xi Wu  
-***<font color = "#224B8D">Medical Image Analysis 2021</font>*** \| [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841520302425)]
-
 - **A Spatiotemporal Agent for Robust Multimodal Registration**  
 <u>Ziwei Luo</u>, Xin Wang, Xi Wu, Youbing Yin, Kunlin Cao, Qi Song, Jing Hu  
 ***<font color = "#224B8D">IEEE ACCESS 2020</font>*** \| [[Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09075173.pdf)]
@@ -130,7 +80,7 @@ Jing Hu, <u>Ziwei Luo</u>, Xin Wang, Shanhui Sun, Youbing Yin, Kunlin Cao, Qi So
 ### Conference Reviewer
 - International Conference on Intelligent Robots and Systems (IROS) 2022
 
-# 💻 Experience
+# Experience
 - *2022.09 - present*, PhD student, at [Uppsala university](https://www.uu.se/en), Sweden.
 - *2021.07 - 2022.07*, Research Assistant, at [Megvii Technology](https://megvii.com/), China.
 - *2020.11 - 2021.06*, Research Intern, at [Megvii Technology](https://megvii.com/), China.
