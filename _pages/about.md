@@ -57,4 +57,4 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 - International Conference on Intelligent Robots and Systems (IROS) 2022
 
 # Experience
-- *2022.09 - present*, PhD student, at [Uppsala university](https://www.uu.se/en)
+- *2018.09 - 2022.12*, PhD student, UESTC 
