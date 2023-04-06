@@ -50,12 +50,11 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 </div>
 </div>
 
+
 # Academic Services
 - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
 - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
 
-### Conference Reviewer
-- International Conference on Intelligent Robots and Systems (IROS) 2022
 
 # Experience
 - *2018.09 - 2022.12*, PhD student, UESTC 
