@@ -21,7 +21,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 
 # News
-- *2022.06*: &nbsp;🎉 I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP).
+- *2022.06*: &nbsp; I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP) 🎉
 
 # Publications 
 
@@ -35,17 +35,18 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 </div>
 </div> -->
 
-<!-- ############################################## -->
+<!-- ################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
-**UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data**  
+**UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
+  
 *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 32, no. 11, pp. 7532-7546, 2022*
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9826814/) \| [Github](https://github.com/liru0126/UPHDR-GAN) \| [Code](https://github.com/liru0126/UPHDR-GAN)) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/abstract/document/9826814/) \| [Github](https://github.com/liru0126/UPHDR-GAN) \| [Code](https://github.com/liru0126/UPHDR-GAN) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
