@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ru Li"
-description              : "liru@hit.edu.cn"
+description              : # "liru@hit.edu.cn"
 repository               : "liru0126/liru0126.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3WQTKocAAAAJ"
-  email            : "ziwei.luo@it.uu.se"
+  email            : "liru@hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
