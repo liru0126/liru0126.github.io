@@ -22,14 +22,10 @@ I am a PhD student in Machine Learning supervised by [Thomas Schön](https://use
 I received my Master of Engineering degree from the School of Computer Science, Chengdu University of Information Technology, advised by [Jing Hu](https://jsjxy.cuit.edu.cn/info/1063/1806.htm). During the school, I participated in the project of performing image registration via reinforcement learning, under the advising of [Xin Wang](https://scholar.google.com/citations?user=jUWx8fcAAAAJ) and [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/) from the University at Buffalo, SUNY. Before that, I obtained the Bachelor degree from Hebei University of Technology. I had been a research assistant at Megvii Technology Ltd., China, working with [Shuaicheng Liu](http://www.liushuaicheng.org/).
 
 
-# 🔥 News
+# News
 - *2022.08*: &nbsp;🎉🎉 I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP).
-- *2022.04*: &nbsp;🎉🎉 We win 1st place in the NTIRE 2022 Burst Super-Resolution Challenge (Real-World Track). 
-- *2022.03*: &nbsp;🎉🎉 One paper is accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022). 
-- *2021.12*: &nbsp;🎉🎉 One paper is accepted by AAAI Conference on Artificial Intelligence (AAAI 2022). 
- 
 
-# 📝 Publications 
+# Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -60,18 +56,11 @@ I received my Master of Engineering degree from the School of Computer Science, 
 <u>Ziwei Luo</u>, Xin Wang, Xi Wu, Youbing Yin, Kunlin Cao, Qi Song, Jing Hu  
 ***<font color = "#224B8D">IEEE ACCESS 2020</font>*** \| [[Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09075173.pdf)]
 
-# 🎖 Honors and Awards
-- *2021, 2022* **Champion** in NTIRE Burst Super-Resolution Challenge (Real track)
-- *2021* **Outstanding Graduates**, Chengdu University of Information Technology 
-- *2021* **Award of Scientific Thesis Excellence**, Chengdu University of Information Technology 
-- *2020* **The First Prize Scholarship**, Chengdu University of Information Technology
-- *2020* **National Scholarship**, China
-
-# 📖 Educations
+# Educations
 - *2018.09 - 2021.06*, Master, Chengdu University of Information Technology. 
 - *2011.09 - 2015.06*, Undergraduate, Hebei University of Technology.
 
-# 📫 Academic Services
+# Academic Services
 ### Journal Reviewer 
 - IEEE Transactions on Image Processing (TIP)
 
