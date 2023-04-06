@@ -21,7 +21,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 
 # News
-- *2022.07*: &nbsp;🎉 I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP).
+- *2022.06*: &nbsp;🎉 I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP).
 
 # Publications 
 
