@@ -42,7 +42,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
   
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 32, no. 11, pp. 7532-7546, 2022*
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
