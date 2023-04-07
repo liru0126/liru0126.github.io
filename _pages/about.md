@@ -58,21 +58,6 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
-  
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 32 (11): 7532-7546, 2022*
-  
-**Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
-
-[Paper](https://ieeexplore.ieee.org/abstract/document/9826814/) \| [Code](https://github.com/liru0126/UPHDR-GAN) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
 <div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,6 +68,53 @@ My research interest includes computer vision and computer graphics.
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
 [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481029) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
+  
+*IEEE Transactions on Image Processing (**TIP**),  31: 513-524, 2021*
+  
+**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
+  
+[Paper](https://ieeexplore.ieee.org/abstract/document/9640580/) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Quadratic Terms based Point-to-Surface 3D Representation for Deep Learning of Point Cloud** 
+  
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.32, no.5, pp. 2705-2718, 2021*
+  
+Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
+  
+[Paper](https://ieeexplore.ieee.org/abstract/document/9640580/) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+**2020**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
+  
+*IEEE Transactions on Image Processing (**TIP**),  31: 513-524, 2021*
+  
+**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
+  
+[Paper](https://ieeexplore.ieee.org/abstract/document/9640580/) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
