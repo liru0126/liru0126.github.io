@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!-- <span class='anchor' id='short-bio'></span> -->
+<span class='anchor' id='about-me'></span>
 
 # Short Bio
 I received my Ph.D. degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), supervised by [Prof. Guanghui LIU](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) in 2022, and received my Bachelor degree in [China University of Petroleum (UPC)](https://www.upc.edu.cn) in 2016. I visited the [Computational Health Informatics (CHI) Lab](https://eng.ox.ac.uk/chi/), University of Oxford in 2019.
