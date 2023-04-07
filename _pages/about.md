@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# Short Bio
 I received my Ph.D. degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), supervised by [Prof. Guanghui LIU](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) in 2022, and received my Bachelor degree in [China University of Petroleum (UPC)](https://www.upc.edu.cn) in 2016. I visited the [Computational Health Informatics (CHI) Lab](https://eng.ox.ac.uk/chi/), University of Oxford in 2019.
 
 I joined the group of [Prof. Shengping Zhang](https://scholar.google.com.hk/citations?user=hMNsT8sAAAAJ) at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn) in 2023.
@@ -137,7 +137,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 - *2018.09 - 2022.12*, Ph.D., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
 - *2016.09 - 2018.06*, M.Sc., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
 - *2012.09 - 2016.06*, B.E., [China University of Petroleum (UPC)](https://www.upc.edu.cn)
-- *2019.07 - 2019.10*, cisiting student, [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
+- *2019.07 - 2019.10*, visiting student, [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
 
 # Experience
 - *2023.03-present*, [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn)
