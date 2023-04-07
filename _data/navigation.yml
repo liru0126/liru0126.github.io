@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Short bio"
-    url: "/#short-bio"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#news"
