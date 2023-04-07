@@ -233,5 +233,5 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 # Projects
 **DMS**
 <div>
-       <videosrc='images/DMS_smoke_demo1.mp4' controls="controls" width="100%" height="300px"></video>
+       <video src='images/DMS_smoke_demo1.mp4' controls="controls" width="100%" height="300px"></video>
 </div>
