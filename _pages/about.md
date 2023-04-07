@@ -88,7 +88,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/sun_tcsvt.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Quadratic Terms based Point-to-Surface 3D Representation for Deep Learning of Point Cloud** 
