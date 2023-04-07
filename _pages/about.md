@@ -155,7 +155,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 <div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-## **Hybrid Synthesis for Exposure Fusion from Hand-Held Camera Inputs**
+**Hybrid Synthesis for Exposure Fusion from Hand-Held Camera Inputs**
 
 *IEEE Internation Conference on Image Processing (**ICIP**), pp. 4639-4643, 2019*
 
