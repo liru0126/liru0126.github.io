@@ -51,7 +51,7 @@
     
     .paper-box-image{
         min-width: 100px;
-        max-width: 30%;
+        max-width: 20%;
         order: 2;
     }
     
@@ -64,12 +64,12 @@
         .paper-box-image{
             padding-right: 1em;
             min-width: 100px;
-            max-width: 30%;
+            max-width: 20%;
             order: 1;
         }
         
         .paper-box-text{
-            max-width: 70%;
+            max-width: 80%;
             order: 2;
         }
 
