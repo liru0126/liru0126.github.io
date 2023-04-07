@@ -191,7 +191,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 <div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-## **Multiple kernel collaborative representation based classification**
+**Multiple kernel collaborative representation based classification**
 
 *IEEE Internation Conference on Signal Processing (**ICSP**), pp. 826-831, 2016*
 
