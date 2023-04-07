@@ -50,8 +50,8 @@
     padding: 0.5em;
     
     .paper-box-image{
-        min-width: 100px;
-        max-width: 100px;
+        min-height: 100px;
+        max-height: 150px;
         order: 2;
     }
     
@@ -63,8 +63,8 @@
     @include breakpoint($medium) {
         .paper-box-image{
             padding-right: 1em;
-            min-width: 100px;
-            max-width: 100px;
+            min-height: 100px;
+            max-height: 150px;
             order: 1;
         }
         
