@@ -63,7 +63,7 @@
     @include breakpoint($medium) {
         .paper-box-image{
             padding-right: 1em;
-            min-width: 200px;
+            min-width: 100px;
             max-width: 30%;
             order: 1;
         }
