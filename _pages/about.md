@@ -141,9 +141,78 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 **An Efficient and Compact 3D Local Descriptor based on the Weighted Height Image** 
   
 *Information Sciences (**INS**), vol. 520, pp. 209-231, 2020*
-  
+
 Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li**
+  
 [Paper](http://www.liushuaicheng.org/INS/3DLD_IS.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+**2019**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+## **Hybrid Synthesis for Exposure Fusion from Hand-Held Camera Inputs**
+
+*IEEE Internation Conference on Image Processing (**ICIP**), pp. 4639-4643, 2019*
+
+**Ru Li**, Shuaicheng Liu, Guanghui Liu, Bing Zeng
+          
+  
+[Paper](https://ieeexplore.ieee.org/abstract/document/8803689) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+
+**2018**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Photomontage for robust hdr imaging with hand-held cameras** 
+  
+*IEEE Internation Conference on Image Processing (**ICIP**), pp. 1708-1712, 2018*
+
+**Ru Li**, Xiaowu He, Shuaicheng Liu, Guanghui Liu, Bing Zeng
+  
+[Paper](http://www.liushuaicheng.org/ICIP/2018/HDR_ICIP18) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+**2016**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+## **Multiple kernel collaborative representation based classification**
+
+*IEEE Internation Conference on Signal Processing (**ICSP**), pp. 826-831, 2016*
+
+**Ru Li**, Qian Zhang, Zhiming Gao, Bao-Di Liu, Yanjing Wang
+          
+[Paper](https://ieeexplore.ieee.org/abstract/document/7877946) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Kernel class specific centralized dictionary learning for face recognition**
+
+*IEEE Internation Conference on Signal Processing (**ICSP**), pp. 837-842, 2016*
+
+Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
+          
+[Paper](https://ieeexplore.ieee.org/abstract/document/7877948) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
