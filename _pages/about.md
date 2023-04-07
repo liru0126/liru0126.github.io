@@ -231,7 +231,8 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
 
 # Projects
-**DMS**
+- *2018.09-2018.12*, Driver Monitor System (DMS) projects
+- Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
 <div>
        <video src='images/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
        <video src='images/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
