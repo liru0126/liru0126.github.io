@@ -188,7 +188,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/icsp2016.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Multiple kernel collaborative representation based classification**
@@ -203,7 +203,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/gao_icsp.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Kernel class specific centralized dictionary learning for face recognition**
