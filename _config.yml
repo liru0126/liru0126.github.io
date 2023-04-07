@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Ru Li"
-repository               : # "liru0126/liru0126.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -35,6 +34,7 @@ author:
   facebook         :
   foursquare       :
   github           : "liru0126"
+  location         : "Weihai, China"
   google_plus      :
   keybase          :
   instagram        :
