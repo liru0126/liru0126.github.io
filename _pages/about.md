@@ -36,7 +36,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 </div>
 </div> -->
 
-<!-- ################### -->
+<!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -51,14 +51,14 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 </div>
 </div>
 
-<!-- ################### -->
+<!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
+**UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
   
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 32 (11): 7532-7546, 2022*
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
@@ -70,7 +70,6 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 # Academic Services
 - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
 - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
-
 
 # Experience
 - *2018.09 - 2022.12*, PhD student, UESTC 
