@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "Short Bio"
     url: "/#about-me"
 
   - title: "News"
@@ -9,11 +9,14 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Educations"
-    url: "/#educations"
+  - title: "Education"
+    url: "/#education"
+    
+  - title: "Experience"
+    url: "/#experience"
 
   - title: "Academic Services"
     url: "/#academic-services"
     
-  - title: "Experience"
-    url: "/#experience"
+ - title: "Projects"
+    url: "/#projects"
