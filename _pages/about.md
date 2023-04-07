@@ -52,7 +52,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 <!-- ################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/liru.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
