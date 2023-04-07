@@ -45,7 +45,7 @@ My research interest includes computer vision and computer graphics.
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
   
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 32 (11): 7532-7546, 2022*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 32, no. 11, pp. 7532-7546, 2022*
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
@@ -78,7 +78,7 @@ My research interest includes computer vision and computer graphics.
 
 **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
   
-*IEEE Transactions on Image Processing (**TIP**),  31: 513-524, 2021*
+*IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 513-524, 2021*
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
@@ -130,6 +130,20 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 **Ru Li**, Shuaicheng Liu, Guanghui Liu, Tiecheng Sun, Jishun Guo
   
 [Paper](http://www.liushuaicheng.org/CVIU/Exposure-Montage-CVIU.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**An Efficient and Compact 3D Local Descriptor based on the Weighted Height Image** 
+  
+*Information Sciences (**INS**), vol. 520, pp. 209-231, 2020*
+  
+Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li**
+[Paper](http://www.liushuaicheng.org/INS/3DLD_IS.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
