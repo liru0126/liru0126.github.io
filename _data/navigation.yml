@@ -16,4 +16,7 @@ main:
     url: "/#experience"
 
   - title: "Academic Services"
-    url: "/#academic-services"
+    url: "/#academic-services"  
+  
+  - title: "Projects"
+    url: "/#projects"
