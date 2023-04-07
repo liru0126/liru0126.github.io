@@ -105,7 +105,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/sdp-gan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
