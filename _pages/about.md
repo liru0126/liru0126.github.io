@@ -18,11 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a Ph.D. candidate of the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), supervised by [Prof. Guanghui LIU](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/). My research interests include: computer vision and image processing.
+I received my Ph.D. degree at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), supervised by [Prof. Guanghui LIU](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/) in 2022, and received my Bachelor degree in [China University of Petroleum (UPC)](https://www.upc.edu.cn/).
+
+I joined the group of [Prof. Shengping Zhang](https://scholar.google.com.hk/citations?user=hMNsT8sAAAAJ) at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn) in 2023.
+
+My research interest includes computer vision and computer graphics.
 
 
 # News
-- *2022.06*: &nbsp; I am invited to be a Journal Reviewer for IEEE Transactions on Image Processing (TIP) 
+- *2022.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+- *2021.10*: &nbsp; One paper is accepted by IEEE Transactions on Image Processing (TIP).
+
 
 # Publications 
 
