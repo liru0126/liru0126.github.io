@@ -108,13 +108,13 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 <div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
+**SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
   
-*IEEE Transactions on Image Processing (**TIP**),  31: 513-524, 2021*
+*IEEE Transactions on Image Processing (**TIP**), vol. 30, pp. 374-385, 2020*
   
-**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
+**Ru Li**, Chi-Hao Wu,  Shuaicheng Liu, Jue Wang, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](https://ieeexplore.ieee.org/abstract/document/9640580/) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](http://liushuaicheng.org/TIP/SDPGAN/SDPGAN-TIP.pdf) \| [Code](https://github.com/liru0126/SDP-GAN) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -123,13 +123,13 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 <div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
+**Multi-exposure photomontage with hand-held cameras** 
   
-*IEEE Transactions on Image Processing (**TIP**),  31: 513-524, 2021*
+*Computer Vision and Image Understanding (**CVIU**), vol. 193, pp. 102929, 2020*
   
-**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
+**Ru Li**, Shuaicheng Liu, Guanghui Liu, Tiecheng Sun, Jishun Guo
   
-[Paper](https://ieeexplore.ieee.org/abstract/document/9640580/) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](http://www.liushuaicheng.org/CVIU/Exposure-Montage-CVIU.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
