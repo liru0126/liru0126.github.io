@@ -25,7 +25,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 # Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="80%"></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
@@ -37,7 +37,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 <!-- ################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="50%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
@@ -52,7 +52,7 @@ I am a Ph.D. candidate of the [University of Electronic Science and Technology o
 
 <!-- ################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
