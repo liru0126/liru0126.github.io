@@ -133,10 +133,19 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 </div>
 </div>
 
+# Education 
+- *2018.09 - 2022.12*, Ph.D., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
+- *2016.09 - 2018.06*, M.Sc., [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
+- *2012.09 - 2016.06*, B.E., [China University of Petroleum (UPC)](https://www.upc.edu.cn)
+- *2019.07 - 2019.10*, cisiting student, [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
+
+# Experience
+- *2023.03-present*, [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn)
+- *2018.03-2022.12*, Intern, Megvii Research
 
 # Academic Services
 - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
 - **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
 
-# Experience
-- *2018.09 - 2022.12*, PhD student, UESTC 
+# Projects
+
