@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Ru Li"
-description              : "Harbin Institute of Technology (HIT)"
+description              : # "Harbin Institute of Technology (HIT)"
+repository               : "Algolzw/Algolzw.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -20,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ru Li     (李茹)"
+  name             : "Ru Li (李茹)"
   avatar           : "images/liru.jpeg"
   bio              : # "Harbin Institute of Technology (HIT)"
   employer         :
