@@ -120,7 +120,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/CVIU2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-exposure photomontage with hand-held cameras** 
