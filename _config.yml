@@ -21,6 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ru Li (李茹)"
   avatar           : "images/liru.jpeg"
+  bio              : "Harbin Institute of Technology (HIT)"
   employer         :
   pubmed           : 
   email            : "liru@hit.edu.cn"
@@ -34,7 +35,7 @@ author:
   facebook         :
   foursquare       :
   github           : "liru0126"
-  location         : "Weihai, China"
+  location         : # "Weihai, China"
   google_plus      :
   keybase          :
   instagram        :
