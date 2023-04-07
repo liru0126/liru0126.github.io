@@ -15,7 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span> -->
+# Short bio
 
 I am a Ph.D. candidate of the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), supervised by [Prof. Guanghui LIU](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng LIU](http://www.liushuaicheng.org/). My research interests include: computer vision and image processing.
 
