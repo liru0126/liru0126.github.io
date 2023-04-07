@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ru Li（李茹）"
+  name             : "Ru Li（李茹）<br>"
   avatar           : "images/liru.jpeg"
   bio              : # "Harbin Institute of Technology (HIT)"
   employer         :
