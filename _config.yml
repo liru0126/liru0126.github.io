@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Ru Li"
-description              : # "liru@hit.edu.cn"
 repository               : # "liru0126/liru0126.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +20,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "    Ru Li (李茹)"
+  name             : "Ru Li (李茹)"
   avatar           : "images/liru.jpeg"
-  bio              : "HIT"
   employer         :
   pubmed           : 
   email            : "liru@hit.edu.cn"
@@ -56,7 +54,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  location         : "Weihai, China"
 
 
 # Reading Files
