@@ -58,7 +58,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/acmmm2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Image Style Transfer with Generative Adversarial Networks** 
