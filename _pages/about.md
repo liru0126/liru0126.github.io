@@ -40,7 +40,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/uphdr-gan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/collections/2022_tcsvt/tcsvt2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
@@ -49,7 +49,7 @@ My research interest includes computer vision and computer graphics.
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9826814/) \| [Github](https://github.com/liru0126/UPHDR-GAN) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2022_tcsvt/tcsvt2022.pdf) \| [Github](https://github.com/liru0126/UPHDR-GAN) \| [BibTex](collections/2022_tcsvt/tcsvt2022.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
