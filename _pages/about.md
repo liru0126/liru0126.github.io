@@ -49,7 +49,7 @@ My research interest includes computer vision and computer graphics.
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
-[Paper](collections/2022_tcsvt/tcsvt2022.pdf) \| [Github](https://github.com/liru0126/UPHDR-GAN) \| [BibTex](collections/2022_tcsvt/tcsvt2022.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2022_tcsvt/tcsvt2022.pdf) \| [code](https://github.com/liru0126/UPHDR-GAN) \| [BibTex](collections/2022_tcsvt/tcsvt2022.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -58,7 +58,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_acmmmm/acmmm2021.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_acmmm/acmmm2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Image Style Transfer with Generative Adversarial Networks** 
@@ -67,7 +67,7 @@ My research interest includes computer vision and computer graphics.
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](collections/2021_acmmmm/acmmm2021.pdf) \| Code \| [BibTex](collections/2021_acmmmm/acmmm2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2021_acmmm/acmmm2021.pdf) \| Code \| [BibTex](collections/2021_acmmm/acmmm2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
