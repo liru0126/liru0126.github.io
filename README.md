@@ -8,4 +8,4 @@ Last update: 2023.04
 
 
 # Acknowledgments
-This project is build upon [acad-homapage](https://github.com/RayeRen/acad-homepage.github.io). Fell free to change it to your own homepage.
+This project is build upon [AcadHomapage](https://github.com/RayeRen/acad-homepage.github.io). Fell free to change it to your own homepage.
