@@ -212,7 +212,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
           
-[Paper](collections/2016_icsp/gao_icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/gao_icsp2016.pdf) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2016_icsp/gao_icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/gao_icsp2016.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
