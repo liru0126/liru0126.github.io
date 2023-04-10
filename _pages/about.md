@@ -40,7 +40,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/collections/2022_tcsvt/tcsvt2022.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2022_tcsvt/tcsvt2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
@@ -58,7 +58,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/acmmm2020.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_acmmmm/acmmm2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Image Style Transfer with Generative Adversarial Networks** 
@@ -67,13 +67,13 @@ My research interest includes computer vision and computer graphics.
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481029) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2021_acmmmm/acmmm2021.pdf) \| Code \| [BibTex](collections/2021_acmmmm/acmmm2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/jigsawgan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_tip/tip2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
@@ -82,13 +82,13 @@ My research interest includes computer vision and computer graphics.
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](https://ieeexplore.ieee.org/abstract/document/9640580/) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2021_tip/tip2021.pdf) \| Code \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/sun_tcsvt.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_tcsvt/sun_tcsvt2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Quadratic Terms based Point-to-Surface 3D Representation for Deep Learning of Point Cloud** 
@@ -97,7 +97,7 @@ My research interest includes computer vision and computer graphics.
   
 Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
   
-[Paper](https://ieeexplore.ieee.org/abstract/document/9640580/) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2021_tcsvt/sun_tcsvt2021.pdf) \| Code \| [BibTex](collections/2021_tcsvt/sun_tcsvt2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -105,7 +105,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/sdp-gan.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_tip/tip2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
@@ -114,28 +114,28 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
   
 **Ru Li**, Chi-Hao Wu,  Shuaicheng Liu, Jue Wang, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](http://liushuaicheng.org/TIP/SDPGAN/SDPGAN-TIP.pdf) \| [Code](https://github.com/liru0126/SDP-GAN) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2020_tip/tip2020.pdf) \| [Code](https://github.com/liru0126/SDP-GAN) \| [BibTex](collections/2020_tip/tip2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/cviu2020.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_cviu/cviu2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Multi-exposure photomontage with hand-held cameras** 
+**Multi-exposure Photomontage with Hand-held Cameras** 
   
 *Computer Vision and Image Understanding (**CVIU**), vol. 193, pp. 102929, 2020*
   
 **Ru Li**, Shuaicheng Liu, Guanghui Liu, Tiecheng Sun, Jishun Guo
   
-[Paper](http://www.liushuaicheng.org/CVIU/Exposure-Montage-CVIU.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2020_cviu/cviu2020.pdf) \| Code \| [BibTex](collections/2020_cviu/cviu2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/sun_ins.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_ins/sun_ins2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **An Efficient and Compact 3D Local Descriptor based on the Weighted Height Image** 
@@ -144,7 +144,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 
 Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li**
   
-[Paper](http://www.liushuaicheng.org/INS/3DLD_IS.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2020_ins/sun_ins2020.pdf) \| Code \| [BibTex](collections/2020_ins/sun_ins2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -152,7 +152,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/icip2019.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2019_icip/icip2019.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Hybrid Synthesis for Exposure Fusion from Hand-Held Camera Inputs**
@@ -162,7 +162,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 **Ru Li**, Shuaicheng Liu, Guanghui Liu, Bing Zeng
           
   
-[Paper](https://ieeexplore.ieee.org/abstract/document/8803689) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2019_icip/icip2019.pdf) \| Code \| [BibTex](collections/2019_icip/icip2019.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -171,16 +171,16 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/icip2018.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2018_icip/icip2018.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Photomontage for robust hdr imaging with hand-held cameras** 
+**Photomontage for Robust HDR Imaging with Hand-held Cameras** 
   
 *IEEE Internation Conference on Image Processing (**ICIP**), pp. 1708-1712, 2018*
 
 **Ru Li**, Xiaowu He, Shuaicheng Liu, Guanghui Liu, Bing Zeng
   
-[Paper](http://www.liushuaicheng.org/ICIP/2018/HDR_ICIP18) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2018_icip/icip2018.pdf) \| Code \| [BibTex](collections/2018_icip/icip2018.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -188,31 +188,31 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/icsp2016.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/icsp2016.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Multiple kernel collaborative representation based classification**
+**Multiple Kernel Collaborative Representation based Classification**
 
 *IEEE Internation Conference on Signal Processing (**ICSP**), pp. 826-831, 2016*
 
 **Ru Li**, Qian Zhang, Zhiming Gao, Bao-Di Liu, Yanjing Wang
           
-[Paper](https://ieeexplore.ieee.org/abstract/document/7877946) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2016_icsp/icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/icsp2016.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/gao_icsp.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/gao_icsp2016.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Kernel class specific centralized dictionary learning for face recognition**
+**Kernel Class Specific Centralized Dictionary Learning for Face Recognition**
 
 *IEEE Internation Conference on Signal Processing (**ICSP**), pp. 837-842, 2016*
 
 Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
           
-[Paper](https://ieeexplore.ieee.org/abstract/document/7877948) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2016_icsp/gao_icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/gao_icsp2016.pdf) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -234,7 +234,7 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 **2018.09-2018.12, Driver Monitor System (DMS)**
 - Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
 <div>
-       <video src='images/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='images/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='images/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
+       <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
+       <video src='collections/DMS/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
+       <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
 </div>
