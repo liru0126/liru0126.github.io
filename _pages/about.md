@@ -65,7 +65,7 @@ My research interest includes computer vision and computer graphics.
   
 *ACM Multimedia Doctor Symposium (**ACMMM**), pp. 2950-2954, 2021*
   
-**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
+**Ru Li**
   
 [Paper](collections/2021_acmmm/acmmm2021.pdf) \| Code \| [BibTex](collections/2021_acmmm/acmmm2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
