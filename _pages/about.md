@@ -26,14 +26,12 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
-- *2023.07*: &nbsp; Two papers are accepted to ICCV 2023. Congratulations to my collaborators.
+- *2023.07*: &nbsp; Two papers are accepted by ICCV 2023. Congratulations to my collaborators.
 - *2023.07*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2022.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2021.10*: &nbsp; I participated the Doctor Symposium of ACMMM 2021 .
 - *2021.10*: &nbsp; One paper is accepted by IEEE Transactions on Image Processing (TIP).
 - *2021.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2020.10*: &nbsp; One paper is accepted by IEEE Transactions on Image Processing (TIP).
-- *2020.02*: &nbsp; One paper is accepted by Computer Vision and Image Understanding (CVIU).
 
 
 # Publications 
