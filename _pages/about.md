@@ -47,11 +47,11 @@ My research interest includes computer vision and computer graphics.
 
 **PBR-GAN: Imitating Physically Based Rendering with Generative Adversarial Networks** 
   
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
   
-**Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
+**Ru Li**, Peng Dai, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
 
-[Paper](collections/2022_tcsvt/tcsvt2022.pdf) \| [code](https://github.com/liru0126/UPHDR-GAN) \| [BibTex](collections/2022_tcsvt/tcsvt2022.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -66,7 +66,7 @@ My research interest includes computer vision and computer graphics.
 
 Suyi Chen*, Hao Xu*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (* Joint first author)
   
-[Paper] \| [Video] \| [code] \| [BibTex] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Suyi Chen*, Hao Xu*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (* Joi
   
 Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
-[Paper] \| [Video] \| [code] \| [BibTex] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
