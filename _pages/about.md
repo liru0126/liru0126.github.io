@@ -64,7 +64,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
   
 *IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
 
-Suyi Chen*, Hao Xu*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu (* Joint first author)
+Suyi Chen\*, Hao Xu\*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
 Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
