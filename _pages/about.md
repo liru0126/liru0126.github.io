@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 I received my Ph.D. degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), supervised by [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) in 2022, and received my Bachelor degree in [China University of Petroleum (UPC)](https://www.upc.edu.cn) in 2016. I visited the [Computational Health Informatics (CHI) Lab](https://eng.ox.ac.uk/chi/), University of Oxford in 2019.
 
-I joined the group of [Prof. Shengping Zhang](https://scholar.google.com.hk/citations?user=hMNsT8sAAAAJ) at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn) in 2023.
+I joined the group of [Prof. Shengping Zhang](https://scholar.google.com.hk/citations?user=hMNsT8sAAAAJ) at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn) in 2023.
 
 My research interest includes computer vision and computer graphics.
 
@@ -271,7 +271,7 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 
 # Experience
 - *2023.03-present* \| Assistant Professor \| [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn)
-- *2018.03-2022.12* \| Research Intern \| Megvii Research
+- *2018.03-2022.12* \| Intern \| Megvii Research
 
 # Academic Services
 - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
