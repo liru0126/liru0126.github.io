@@ -71,21 +71,6 @@ Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal** 
-  
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
-  
-Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping Zhang
-
-Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/tcsvt2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,6 +79,21 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
   
 **Ru Li**, Peng Dai, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
+
+Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal** 
+  
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
+  
+Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping Zhang
 
 Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
