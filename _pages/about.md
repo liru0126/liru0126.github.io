@@ -26,6 +26,7 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
+- *2023.09*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Congratulations to my collaborators.
 - *2023.07*: &nbsp; Two papers are accepted by ICCV 2023. Congratulations to my collaborators.
 - *2023.07*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2022.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
@@ -37,21 +38,6 @@ My research interest includes computer vision and computer graphics.
 # Publications 
 
 **2023**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/tcsvt2023.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**PBR-GAN: Imitating Physically Based Rendering with Generative Adversarial Networks** 
-  
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
-  
-**Ru Li**, Peng Dai, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
-
-Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
 
 <!-- ######################################################### -->
 
@@ -80,6 +66,36 @@ Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data
 Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
 Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal** 
+  
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
+  
+Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping Zhang
+
+Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**PBR-GAN: Imitating Physically Based Rendering with Generative Adversarial Networks** 
+  
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
+  
+**Ru Li**, Peng Dai, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
+
+Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -270,7 +286,7 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - *2019.07 - 2019.10* \| visiting student \| [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
 
 # Experience
-- *2023.03-present* \| Assistant Professor \| [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn)
+- *2023.03-present* \| Assistant Professor \| [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn)
 - *2018.03-2022.12* \| Intern \| Megvii Research
 
 # Academic Services
