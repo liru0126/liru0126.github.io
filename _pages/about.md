@@ -107,7 +107,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
   
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.32, no.11, pp. 7532-7546, 2022*
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
