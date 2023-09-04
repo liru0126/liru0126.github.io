@@ -293,6 +293,7 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - Signal Processing Letters (SPL)
 - Computer Graphics Fourm (CGF)
 - Artificial Intelligence Review (AIR)
+
 **Conferences:**
 - IEEE International Conference on Computer Vision (ICCV)
 - AAAI Conference on Artificial Intelligence (AAAI)
