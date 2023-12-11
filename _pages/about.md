@@ -26,15 +26,29 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
-- *2023.09*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Congratulations to my collaborators.
-- *2023.07*: &nbsp; Two papers are accepted by ICCV 2023. Congratulations to my collaborators.
+- *2023.12*: &nbsp; One paper is accepted by AAAI 2024.
+- *2023.09*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+- *2023.07*: &nbsp; Two papers are accepted by ICCV 2023.
 - *2023.07*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2022.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2021.10*: &nbsp; I participated in the Doctor Symposium of ACMMM 2021.
-- *2021.10*: &nbsp; One paper is accepted by IEEE Transactions on Image Processing (TIP).
-
 
 # Publications 
+
+**2024**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_iccv/chen_iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field** 
+  
+*The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024*
+
+**Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
+  
+Paper \| Video \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+
 
 **2023**
 
@@ -95,6 +109,21 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping Zhang
 
 Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Exposure Fusion for Hand-held Camera Inputs with Optical Flow and PatchMatch** 
+  
+*arXiv, 2023*
+  
+**Ru Li**, Guanghui Liu,  Bing Zeng, Shuaicheng Liu
+
+[Paper](https://arxiv.org/pdf/2304.04464.pdf) \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
