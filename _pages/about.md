@@ -48,7 +48,7 @@ My research interest includes computer vision and computer graphics.
   
 Paper \| Video \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
-
+</div>
 
 **2023**
 
