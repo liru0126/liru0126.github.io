@@ -37,7 +37,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_iccv/chen_iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_aaai/2024_aaai.pdf' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field** 
@@ -114,7 +114,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_arxiv/2023_arxiv.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Exposure Fusion for Hand-held Camera Inputs with Optical Flow and PatchMatch** 
