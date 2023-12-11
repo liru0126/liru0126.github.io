@@ -123,7 +123,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
   
 **Ru Li**, Guanghui Liu,  Bing Zeng, Shuaicheng Liu
 
-[Paper](https://arxiv.org/pdf/2304.04464.pdf) \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/pdf/2304.04464.pdf) \| code \| [BibTex](collections/2023_arxiv/2023_arxiv.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
