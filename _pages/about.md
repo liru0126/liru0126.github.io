@@ -59,11 +59,11 @@ My research interest includes computer vision and computer graphics.
 
 **SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration** 
   
-*IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
+*IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 14394-14405, 2023*
 
 Suyi Chen\*, Hao Xu\*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=TJfONIn5p_k) \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=TJfONIn5p_k) \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](collections/2023_iccv/chen_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -74,11 +74,11 @@ Suyi Chen\*, Hao Xu\*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
 
 **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion** 
   
-*IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
+*IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 10542-10551, 2023*
   
 Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_MEFLUT_Unsupervised_1D_Lookup_Tables_for_Multi-exposure_Image_Fusion_ICCV_2023_paper.pdf) \| Video \| [code](https://github.com/Hedlen/MEFLUT) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_MEFLUT_Unsupervised_1D_Lookup_Tables_for_Multi-exposure_Image_Fusion_ICCV_2023_paper.pdf) \| Video \| [code](https://github.com/Hedlen/MEFLUT) \| [BibTex](collections/2023_iccv/jiang_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
