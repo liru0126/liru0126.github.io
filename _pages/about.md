@@ -46,7 +46,7 @@ My research interest includes computer vision and computer graphics.
 
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
-Paper \| Video \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| Video \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -63,7 +63,7 @@ Paper \| Video \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <st
 
 Suyi Chen\*, Hao Xu\*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
-Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=TJfONIn5p_k) \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -78,7 +78,7 @@ Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data
   
 Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
-Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_MEFLUT_Unsupervised_1D_Lookup_Tables_for_Multi-exposure_Image_Fusion_ICCV_2023_paper.pdf) \| Video \| [code](https://github.com/Hedlen/MEFLUT) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
