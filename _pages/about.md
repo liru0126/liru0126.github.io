@@ -318,7 +318,7 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - *2018.03-2022.12* \| Intern \| Megvii Research
 
 # Academic Services
-- **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF); Artificial Intelligence Review (AIR)
+- **Journals:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); Signal Processing Letters (SPL); Computer Graphics Fourm (CGF); Artificial Intelligence Review (AIR)
 
 - **Conferences:** IEEE International Conference on Computer Vision (ICCV); AAAI Conference on Artificial Intelligence (AAAI); Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
 
