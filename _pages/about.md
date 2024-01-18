@@ -46,7 +46,7 @@ My research interest includes computer vision and computer graphics.
 
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
-[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| Video \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -318,9 +318,19 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - *2018.03-2022.12* \| Intern \| Megvii Research
 
 # Academic Services
-- **Journals:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT); Signal Processing Letters (SPL); Computer Graphics Fourm (CGF); Artificial Intelligence Review (AIR)
+**Journals:**
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Signal Processing Letters (SPL)
+- Computer Graphics Fourm (CGF)
+- IEEE Geoscience and Remote Sensing Letters (GRSL)
+- Artificial Intelligence Review (AIR)
 
-- **Conferences:** IEEE International Conference on Computer Vision (ICCV); AAAI Conference on Artificial Intelligence (AAAI); Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
+**Conferences:** 
+- IEEE International Conference on Computer Vision (ICCV)
+- European Conference on Computer Vision (ECCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- Pacific Graphics (PG)
+- International Conference on Intelligent Robots and Systems (IROS)
 
 # Projects
 **2018.09-2018.12, Driver Monitor System (DMS)**
