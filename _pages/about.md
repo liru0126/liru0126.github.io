@@ -173,7 +173,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](collections/2021_tip/tip2021.pdf) \| Code \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2021_tip/tip2021.pdf) \|  [code](https://github.com/liru0126/JigsawGAN) \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
