@@ -47,7 +47,37 @@ My research interest includes computer vision and computer graphics.
 
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
-[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| [code](https://github.com/liru0126/SpectralNeRF) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2024_aaai/2024_aaai.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| [code](https://github.com/liru0126/SpectralNeRF) \| [BibTex](collections/2024_aaai/2024_aaai.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**PBR-GAN: Imitating Physically Based Rendering with Generative Adversarial Networks** 
+  
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024*
+  
+**Ru Li**, Peng Dai, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
+
+[Paper](collections/2024_tcsvt/tcsvt2024.pdf) \| code \| [BibTex](collections/2024_tcsvt/tcsvt2024.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal** 
+  
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024*
+  
+Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping Zhang
+
+[Paper](collections/2024_tcsvt/li_tcsvt2024.pdf) \| code \| [BibTex](collections/2024_tcsvt/li_tcsvt2024.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -60,7 +90,7 @@ My research interest includes computer vision and computer graphics.
 
 **SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration** 
   
-*IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 14394-14405, 2023*
+*IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
 
 Suyi Chen\*, Hao Xu\*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
@@ -75,41 +105,11 @@ Suyi Chen\*, Hao Xu\*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
 
 **MEFLUT: Unsupervised Learning 1D Lookup Tables for Multi-exposure Image Fusion** 
   
-*IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 10542-10551, 2023*
+*IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
   
 Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
 [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_MEFLUT_Unsupervised_1D_Lookup_Tables_for_Multi-exposure_Image_Fusion_ICCV_2023_paper.pdf) \| [code](https://github.com/Hedlen/MEFLUT) \| [BibTex](collections/2023_iccv/jiang_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/tcsvt2023.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**PBR-GAN: Imitating Physically Based Rendering with Generative Adversarial Networks** 
-  
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
-  
-**Ru Li**, Peng Dai, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
-
-Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal** 
-  
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023*
-  
-Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping Zhang
-
-Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -137,7 +137,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 **UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
   
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.32, no.11, pp. 7532-7546, 2022*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2022*
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
@@ -155,7 +155,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 **Image Style Transfer with Generative Adversarial Networks** 
   
-*ACM Multimedia Doctor Symposium (**ACMMM**), pp. 2950-2954, 2021*
+*ACM Multimedia Doctor Symposium (**ACMMM**), 2021*
   
 **Ru Li**
   
@@ -170,7 +170,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
   
-*IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 513-524, 2021*
+*IEEE Transactions on Image Processing (**TIP**), 2021*
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
@@ -185,7 +185,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 **Quadratic Terms based Point-to-Surface 3D Representation for Deep Learning of Point Cloud** 
   
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.32, no.5, pp. 2705-2718, 2021*
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2021*
   
 Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
   
@@ -202,7 +202,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 
 **SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
   
-*IEEE Transactions on Image Processing (**TIP**), vol. 30, pp. 374-385, 2020*
+*IEEE Transactions on Image Processing (**TIP**), 2020*
   
 **Ru Li**, Chi-Hao Wu,  Shuaicheng Liu, Jue Wang, Guangfu Wang, Guanghui Liu, Bing Zeng
   
@@ -217,7 +217,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 
 **Multi-exposure Photomontage with Hand-held Cameras** 
   
-*Computer Vision and Image Understanding (**CVIU**), vol. 193, pp. 102929, 2020*
+*Computer Vision and Image Understanding (**CVIU**), 2020*
   
 **Ru Li**, Shuaicheng Liu, Guanghui Liu, Tiecheng Sun, Jishun Guo
   
@@ -232,7 +232,7 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 
 **An Efficient and Compact 3D Local Descriptor based on the Weighted Height Image** 
   
-*Information Sciences (**INS**), vol. 520, pp. 209-231, 2020*
+*Information Sciences (**INS**), 2020*
 
 Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li**
   
@@ -249,7 +249,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 **Hybrid Synthesis for Exposure Fusion from Hand-Held Camera Inputs**
 
-*IEEE Internation Conference on Image Processing (**ICIP**), pp. 4639-4643, 2019*
+*IEEE Internation Conference on Image Processing (**ICIP**), 2019*
 
 **Ru Li**, Shuaicheng Liu, Guanghui Liu, Bing Zeng
           
@@ -268,7 +268,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 **Photomontage for Robust HDR Imaging with Hand-held Cameras** 
   
-*IEEE Internation Conference on Image Processing (**ICIP**), pp. 1708-1712, 2018*
+*IEEE Internation Conference on Image Processing (**ICIP**), 2018*
 
 **Ru Li**, Xiaowu He, Shuaicheng Liu, Guanghui Liu, Bing Zeng
   
@@ -285,7 +285,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 **Multiple Kernel Collaborative Representation based Classification**
 
-*IEEE Internation Conference on Signal Processing (**ICSP**), pp. 826-831, 2016*
+*IEEE Internation Conference on Signal Processing (**ICSP**), 2016*
 
 **Ru Li**, Qian Zhang, Zhiming Gao, Bao-Di Liu, Yanjing Wang
           
@@ -300,7 +300,7 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 **Kernel Class Specific Centralized Dictionary Learning for Face Recognition**
 
-*IEEE Internation Conference on Signal Processing (**ICSP**), pp. 837-842, 2016*
+*IEEE Internation Conference on Signal Processing (**ICSP**), 2016*
 
 Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
           
