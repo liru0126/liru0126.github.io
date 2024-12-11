@@ -51,7 +51,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_tcsvt/tcsvt2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **PBR-GAN: Imitating Physically Based Rendering with Generative Adversarial Networks** 
@@ -66,7 +66,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_tcsvt/li_tcsvt2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_tcsvt/li_tcsvt2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal** 
