@@ -319,19 +319,9 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - *2018.03-2022.12* \| Intern \| Megvii Research
 
 # Academic Services
-**Journals:**
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- Signal Processing Letters (SPL)
-- Computer Graphics Fourm (CGF)
-- IEEE Geoscience and Remote Sensing Letters (GRSL)
-- Artificial Intelligence Review (AIR)
+**Journals:** TCSVT, SPL, CGF, GRSL, AIR
 
-**Conferences:** 
-- IEEE International Conference on Computer Vision (ICCV)
-- European Conference on Computer Vision (ECCV)
-- AAAI Conference on Artificial Intelligence (AAAI)
-- Pacific Graphics (PG)
-- International Conference on Intelligent Robots and Systems (IROS)
+**Conferences:**: CVPR, ICCV, ECCV, AAAI, PG, ICASSP, IROS
 
 # Projects
 **2018.09-2018.12, Driver Monitor System (DMS)**
