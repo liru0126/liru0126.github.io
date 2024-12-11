@@ -1,5 +1,5 @@
 @article{sun2021quadratic,
-  title={Quadratic terms based point-to-surface 3D representation for deep learning of point cloud},
+  title={Quadratic Terms based Point-to-surface 3D Representation for Deep Learning of Point Cloud},
   author={Sun, Tiecheng and Liu, Guanghui and Li, Ru and Liu, Shuaicheng and Zhu, Shuyuan and Zeng, Bing},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={32},
