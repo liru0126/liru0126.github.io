@@ -26,10 +26,11 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
+- *2024.12*: &nbsp; Three papers are accepted by AAAI 2025.
+- *2024.12*: &nbsp; One paper is accepted by IEEE Transactions on Information Forensics & Security (TIFS).
 - *2023.12*: &nbsp; One paper is accepted by AAAI 2024.
 - *2023.09*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2023.07*: &nbsp; Two papers are accepted by ICCV 2023.
-- *2023.07*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 # Publications 
 
