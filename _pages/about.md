@@ -321,7 +321,7 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 # Academic Services
 **Journals:** TCSVT, SPL, CGF, GRSL, AIR
 
-**Conferences:**: CVPR, ICCV, ECCV, AAAI, PG, ICASSP, IROS
+**Conferences:** CVPR, ICCV, ECCV, AAAI, PG, ICASSP, IROS
 
 # Projects
 **2018.09-2018.12, Driver Monitor System (DMS)**
