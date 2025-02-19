@@ -36,6 +36,51 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_aaai/lxz_aaai2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-view Consistent 3D Panoptic Scene Understanding** 
+  
+*The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025*
+
+Xianzhu Liu, Xin Sun, Haozhe Xie, Zonglin Li, **Ru Li**, Shengping Zhang
+  
+Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_aaai/luo_aaai2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Diff-Shadow: Global-guided Diffusion Model for Shadow Removal** 
+  
+*The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025*
+
+Jinting Luo, **Ru Li**, Chengzhi Jiang, Xiaoming Zhang, Mingyan Han, Ting Jiang, Haoxiang Fan, Shuaicheng Liu
+  
+Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_aaai/liu_aaai2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Path-Adaptive Matting for Efficient Inference under Various Computational Cost Constraints** 
+  
+*The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025*
+
+Qinglin Liu, Zonglin Li, Xiaoqian Lv, Xin Sun, **Ru Li**, Shengping Zhang
+  
+Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tifs/chai_tifs2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,7 +90,7 @@ My research interest includes computer vision and computer graphics.
 
 Tingting Chai, Wang Xin, **Ru Li**, Jia Wei, Wu Xiangqian.
   
-[Paper](collections/2024_aaai/2024_aaai.pdf) \| [code](https://github.com/godfatherwang2/RDRLA) \| [BibTex](collections/2025_tifs/chai_tifs2025.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| [code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
