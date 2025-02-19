@@ -44,7 +44,7 @@ My research interest includes computer vision and computer graphics.
 
 Xianzhu Liu, Xin Sun, Haozhe Xie, Zonglin Li, **Ru Li**, Shengping Zhang
   
-Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -59,7 +59,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 Jinting Luo, **Ru Li**, Chengzhi Jiang, Xiaoming Zhang, Mingyan Han, Ting Jiang, Haoxiang Fan, Shuaicheng Liu
   
-Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 Qinglin Liu, Zonglin Li, Xiaoqian Lv, Xin Sun, **Ru Li**, Shengping Zhang
   
-Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -87,9 +87,9 @@ Paper \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
   
 *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025*
 
-Tingting Chai, Wang Xin, **Ru Li**, Jia Wei, Wu Xiangqian.
+Tingting Chai, Wang Xin, **Ru Li**, Wei Jia, Xiangqian Wu
   
-Paper \| [code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| [Code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -106,7 +106,7 @@ Paper \| [code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span
 
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
-[Paper](collections/2024_aaai/2024_aaai.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| [code](https://github.com/liru0126/SpectralNeRF) \| [BibTex](collections/2024_aaai/2024_aaai.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2024_aaai/2024_aaai.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| [Code](https://github.com/liru0126/SpectralNeRF) \| [BibTex](collections/2024_aaai/2024_aaai.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -121,7 +121,7 @@ Paper \| [code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span
   
 **Ru Li**, Peng Dai, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
 
-[Paper](collections/2024_tcsvt/tcsvt2024.pdf) \| code \| [BibTex](collections/2024_tcsvt/tcsvt2024.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2024_tcsvt/tcsvt2024.pdf) \| Code \| [BibTex](collections/2024_tcsvt/tcsvt2024.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -136,7 +136,7 @@ Paper \| [code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span
   
 Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping Zhang
 
-[Paper](collections/2024_tcsvt/li_tcsvt2024.pdf) \| code \| [BibTex](collections/2024_tcsvt/li_tcsvt2024.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2024_tcsvt/li_tcsvt2024.pdf) \| Code \| [BibTex](collections/2024_tcsvt/li_tcsvt2024.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -153,7 +153,7 @@ Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping 
 
 Suyi Chen, Hao Xu, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=TJfONIn5p_k) \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](collections/2023_iccv/chen_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=TJfONIn5p_k) \| [Code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](collections/2023_iccv/chen_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -168,7 +168,7 @@ Suyi Chen, Hao Xu, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
 Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_MEFLUT_Unsupervised_1D_Lookup_Tables_for_Multi-exposure_Image_Fusion_ICCV_2023_paper.pdf) \| [code](https://github.com/Hedlen/MEFLUT) \| [BibTex](collections/2023_iccv/jiang_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_MEFLUT_Unsupervised_1D_Lookup_Tables_for_Multi-exposure_Image_Fusion_ICCV_2023_paper.pdf) \| [Code](https://github.com/Hedlen/MEFLUT) \| [BibTex](collections/2023_iccv/jiang_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -183,7 +183,7 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
   
 **Ru Li**, Guanghui Liu,  Bing Zeng, Shuaicheng Liu
 
-[Paper](https://arxiv.org/pdf/2304.04464.pdf) \| code \| [BibTex](collections/2023_arxiv/2023_arxiv.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/pdf/2304.04464.pdf) \| Code \| [BibTex](collections/2023_arxiv/2023_arxiv.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -200,7 +200,7 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
   
 **Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
 
-[Paper](collections/2022_tcsvt/tcsvt2022.pdf) \| [code](https://github.com/liru0126/UPHDR-GAN) \| [BibTex](collections/2022_tcsvt/tcsvt2022.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2022_tcsvt/tcsvt2022.pdf) \| [Code](https://github.com/liru0126/UPHDR-GAN) \| [BibTex](collections/2022_tcsvt/tcsvt2022.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -233,7 +233,7 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](collections/2021_tip/tip2021.pdf) \|  [code](https://github.com/liru0126/JigsawGAN) \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2021_tip/tip2021.pdf) \|  [Code](https://github.com/liru0126/JigsawGAN) \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
