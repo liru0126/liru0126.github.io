@@ -39,7 +39,7 @@ My research interest includes computer vision and computer graphics.
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tifs/chai_tifs2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field** 
+**Joint Finger Valley Points-Free ROI Detection and Recurrent Layer Aggregation for Palmprint Recognition in Open Environment** 
   
 *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025*
 
