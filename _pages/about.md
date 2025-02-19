@@ -80,7 +80,7 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tifs/chai_tifs2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tifs/chai_tifs2025_v2.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Joint Finger Valley Points-Free ROI Detection and Recurrent Layer Aggregation for Palmprint Recognition in Open Environment** 
