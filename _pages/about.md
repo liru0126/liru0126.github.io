@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6253a796-e091-4bf8-bd63-e76b34ff09b1)---
 permalink: /
 title: ""
 excerpt: ""
@@ -31,6 +31,23 @@ My research interest includes computer vision and computer graphics.
 - *2023.12*: &nbsp; One paper is accepted by AAAI 2024.
 
 # Publications 
+
+**2025**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tifs/chai_tifs2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field** 
+  
+*IEEE Transactions on Information Forensics and Security (**TIFS**), 2025*
+
+Tingting Chai, Wang Xin, **Ru Li**, Jia Wei, Wu Xiangqian.
+  
+[Paper](collections/2024_aaai/2024_aaai.pdf) \| [code](https://github.com/godfatherwang2/RDRLA) \| [BibTex](collections/2025_tifs/chai_tifs2025.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 **2024**
 
@@ -90,7 +107,7 @@ Mingxiu Li, Wei Yu, Qinglin Liu, Zonglin Li, **Ru Li**, Bineng Zhong, Shengping 
   
 *IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
 
-Suyi Chen\*, Hao Xu\*, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
+Suyi Chen, Hao Xu, **Ru Li**, Guanghui Liu, Chi-Wing Fu, Shuaicheng Liu
   
 [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SIRA-PCR_Sim-to-Real_Adaptation_for_3D_Point_Cloud_Registration_ICCV_2023_paper.pdf) \| [Video](https://www.youtube.com/watch?v=TJfONIn5p_k) \| [code](https://github.com/Chen-Suyi/SIRA_Pytorch) \| [BibTex](collections/2023_iccv/chen_iccv2023.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
