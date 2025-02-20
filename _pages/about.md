@@ -87,7 +87,7 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
   
 *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025*
 
-Tingting Chai, Wang Xin, **Ru Li**, Wei Jia, Xiangqian Wu
+Tingting Chai, Xin Wang, **Ru Li**, Wei Jia, Xiangqian Wu
   
 Paper \| [Code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
