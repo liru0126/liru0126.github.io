@@ -29,6 +29,8 @@ My research interest includes computer vision and computer graphics.
 - *2024.12*: &nbsp; Three papers are accepted by AAAI 2025.
 - *2024.12*: &nbsp; One paper is accepted by IEEE Transactions on Information Forensics and Security (TIFS).
 
+<span class='anchor' id='selected-publications'></span>
+
 # Selected Publications 
 
 **2025**
