@@ -29,7 +29,7 @@ My research interest includes computer vision and computer graphics.
 - *2024.12*: &nbsp; Three papers are accepted by AAAI 2025.
 - *2024.12*: &nbsp; One paper is accepted by IEEE Transactions on Information Forensics and Security (TIFS).
 
-# Publications 
+# Selected Publications 
 
 **2025**
 
@@ -335,9 +335,9 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 </div>
 </div>
 
-**2016**
+// **2016**
 
-<!-- ######################################################### -->
+% <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/icsp2016.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
