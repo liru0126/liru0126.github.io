@@ -335,9 +335,10 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 </div>
 </div>
 
-// **2016**
+<!--
+ **2016**
 
-% <!-- ######################################################### -->
+ <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/icsp2016.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -366,6 +367,8 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 [Paper](collections/2016_icsp/gao_icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/gao_icsp2016.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+
+-->
 
 # Education 
 - *2018.09 - 2022.12* \| Ph.D. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
