@@ -337,9 +337,11 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 
 <!--
  **2016**
+-->
 
  <!-- ######################################################### -->
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/icsp2016.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -352,9 +354,11 @@ Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li*
 [Paper](collections/2016_icsp/icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/icsp2016.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+-->
 
 <!-- ######################################################### -->
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/gao_icsp2016.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -367,7 +371,6 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 [Paper](collections/2016_icsp/gao_icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/gao_icsp2016.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
-
 -->
 
 # Education 
