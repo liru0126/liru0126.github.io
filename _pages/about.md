@@ -386,9 +386,9 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - *2018.03-2022.12* \| Intern \| Megvii Research
 
 # Academic Services
-**Conferences:** CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, PG, IROS, ICASSP
+**Conferences:** CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, PG, IROS, ICASSP, etc.
 
-**Journals:** TCSVT, SPL, CGF, GRSL, AIR
+**Journals:** TCSVT, SPL, CGF, GRSL, AIR, etc.
 
 # Projects
 **2018.09-2018.12, Driver Monitor System (DMS)**
