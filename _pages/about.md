@@ -46,7 +46,7 @@ My research interest includes computer vision and computer graphics.
 
 Xianzhu Liu, Xin Sun, Haozhe Xie, Zonglin Li, **Ru Li**, Shengping Zhang
   
-Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| [Code](https://github.com/aipixel/MVC-PSU) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -61,7 +61,7 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 Jinting Luo, **Ru Li**, Chengzhi Jiang, Xiaoming Zhang, Mingyan Han, Ting Jiang, Haoxiang Fan, Shuaicheng Liu
   
-Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| [Code](https://github.com/MonteCarluo/Diff-Shadow) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -76,7 +76,7 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 Qinglin Liu, Zonglin Li, Xiaoqian Lv, Xin Sun, **Ru Li**, Shengping Zhang
   
-Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| [Code](https://github.com/aipixel/PAM) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
