@@ -26,6 +26,7 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
+- *2025.09*: &nbsp; One paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - *2024.12*: &nbsp; Three papers are accepted by AAAI 2025.
 - *2024.12*: &nbsp; One paper is accepted by IEEE Transactions on Information Forensics and Security (TIFS).
 
@@ -34,6 +35,21 @@ My research interest includes computer vision and computer graphics.
 # Selected Publications 
 
 **2025**
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tpami/2025_tpami.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SS-NeRF: Physically Based Sparse Spectral Rendering with Neural Radiance Field** 
+  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025*
+
+**Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
+  
+Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <!-- ######################################################### -->
 
