@@ -46,7 +46,7 @@ My research interest includes computer vision and computer graphics.
 
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
-[Paper](collections/2026_tpami/2026_tpami.pdf) \| [Code]((https://github.com/liru0126/SpectralNeRF)) \| [BibTex]((collections/2026_tpami/2026_tpami.md) ) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2026_tpami/2026_tpami.pdf) \| [Code](https://github.com/liru0126/SpectralNeRF) \| [BibTex]((collections/2026_tpami/2026_tpami.md) ) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -78,7 +78,7 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 Xianzhu Liu, Xin Sun, Haozhe Xie, Zonglin Li, **Ru Li**, Shengping Zhang
   
-Paper \| [Code](https://github.com/aipixel/MVC-PSU) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2025_aaai/lxz_aaai2025.pdf) \| [Code](https://github.com/aipixel/MVC-PSU) \| [BibTex](collections/2025_aaai/lxz_aaai2025.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Paper \| [Code](https://github.com/aipixel/MVC-PSU) \| BibTex <strong><span clas
 
 Jinting Luo, **Ru Li**, Chengzhi Jiang, Xiaoming Zhang, Mingyan Han, Ting Jiang, Haoxiang Fan, Shuaicheng Liu
   
-Paper \| [Code](https://github.com/MonteCarluo/Diff-Shadow) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2025_aaai/luo_aaai2025.pdf) \| [Code](https://github.com/MonteCarluo/Diff-Shadow) \| [BibTex]((collections/2025_aaai/luo_aaai2025.md)) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Paper \| [Code](https://github.com/MonteCarluo/Diff-Shadow) \| BibTex <strong><s
 
 Qinglin Liu, Zonglin Li, Xiaoqian Lv, Xin Sun, **Ru Li**, Shengping Zhang
   
-Paper \| [Code](https://github.com/aipixel/PAM) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2025_aaai/liu_aaai2025.pdf) \| [Code](https://github.com/aipixel/PAM) \| [BibTex](collections/2025_aaai/liu_aaai2025.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -123,7 +123,7 @@ Paper \| [Code](https://github.com/aipixel/PAM) \| BibTex <strong><span class='s
 
 Tingting Chai, Xin Wang, **Ru Li**, Wei Jia, Xiangqian Wu
   
-Paper \| [Code](https://github.com/godfatherwang2/RDRLA) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2025_tifs/chai_tifs2025.pdf) \| [Code](https://github.com/godfatherwang2/RDRLA) \| [BibTex](collections/2025_tifs/chai_tifs2025.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
