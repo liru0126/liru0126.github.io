@@ -28,8 +28,6 @@ My research interest includes computer vision and computer graphics.
 # News
 - *2026.02*: &nbsp; One paper is accepted by CVPR 2026.
 - *2025.09*: &nbsp; One paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2024.12*: &nbsp; Three papers are accepted by AAAI 2025.
-- *2024.12*: &nbsp; One paper is accepted by IEEE Transactions on Information Forensics and Security (TIFS).
 
 <span class='anchor' id='selected-publications'></span>
 
@@ -61,7 +59,7 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
   
 *IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2026*
 
-Weiyu Zhao **Ru Li**, Jiaqi Liu, Sizhe Zhao, Qinglin Liu, Shengping Zhang
+Weiyu Zhao, **Ru Li**, Jiaqi Liu, Sizhe Zhao, Qinglin Liu, Shengping Zhang
   
 Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
