@@ -93,7 +93,7 @@ Xianzhu Liu, Xin Sun, Haozhe Xie, Zonglin Li, **Ru Li**, Shengping Zhang
 
 Jinting Luo, **Ru Li**, Chengzhi Jiang, Xiaoming Zhang, Mingyan Han, Ting Jiang, Haoxiang Fan, Shuaicheng Liu
   
-[Paper](collections/2025_aaai/luo_aaai2025.pdf) \| [Code](https://github.com/MonteCarluo/Diff-Shadow) \| [BibTex]((collections/2025_aaai/luo_aaai2025.md)) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2025_aaai/luo_aaai2025.pdf) \| [Code](https://github.com/MonteCarluo/Diff-Shadow) \| [BibTex](collections/2025_aaai/luo_aaai2025.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
