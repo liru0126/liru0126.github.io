@@ -44,7 +44,7 @@ My research interest includes computer vision and computer graphics.
 
 **SS-NeRF: Physically Based Sparse Spectral Rendering with Neural Radiance Field** 
   
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025*
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026*
 
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
@@ -59,7 +59,7 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 
 **QueryMe: Query-Driven Open-Vocabulary 3D Object Affordances Grounding from Multimodal Evidence** 
   
-*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2025*
+*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2026*
 
 Weiyu Zhao **Ru Li**, Jiaqi Liu, Sizhe Zhao, Qinglin Liu, Shengping Zhang
   
