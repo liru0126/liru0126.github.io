@@ -42,7 +42,7 @@ My research interest includes computer vision and computer graphics.
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tpami/2025_tpami.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**QueryMe: Query-Driven Open-Vocabulary 3D Object Affordances Grounding from Multimodal Evidence** 
+**SS-NeRF: Physically Based Sparse Spectral Rendering with Neural Radiance Field** 
   
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025*
 
@@ -57,9 +57,9 @@ Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKoc
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026_cvpr/2026_cvpr.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**SS-NeRF: Physically Based Sparse Spectral Rendering with Neural Radiance Field** 
+**QueryMe: Query-Driven Open-Vocabulary 3D Object Affordances Grounding from Multimodal Evidence** 
   
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025*
+*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2025*
 
 Weiyu Zhao **Ru Li**, Jiaqi Liu, Sizhe Zhao, Qinglin Liu, Shengping Zhang
   
