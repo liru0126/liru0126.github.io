@@ -37,7 +37,7 @@ My research interest includes computer vision and computer graphics.
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_tpami/2025_tpami.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026_tpami/2026_tpami.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SS-NeRF: Physically Based Sparse Spectral Rendering with Neural Radiance Field** 
@@ -46,7 +46,7 @@ My research interest includes computer vision and computer graphics.
 
 **Ru Li**, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu
   
-Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2026_tpami/2026_tpami.pdf) \| [Code]((https://github.com/liru0126/SpectralNeRF)) \| [BibTex]((collections/2026_tpami/2026_tpami.md) ) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
