@@ -206,21 +206,6 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 </div>
 </div>
 
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_arxiv/2023_arxiv.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Exposure Fusion for Hand-held Camera Inputs with Optical Flow and PatchMatch** 
-  
-*arXiv, 2023*
-  
-**Ru Li**, Guanghui Liu,  Bing Zeng, Shuaicheng Liu
-
-[Paper](https://arxiv.org/pdf/2304.04464.pdf) \| Code \| [BibTex](collections/2023_arxiv/2023_arxiv.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
 **2022**
 
 <!-- ######################################################### -->
