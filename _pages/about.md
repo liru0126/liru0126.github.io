@@ -210,6 +210,21 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_tip/tip2021.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
+  
+*IEEE Transactions on Image Processing (**TIP**), 2021*
+  
+**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
+  
+[Paper](collections/2021_tip/tip2021.pdf) \|  [Code](https://github.com/liru0126/JigsawGAN) \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2022_tcsvt/tcsvt2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -243,16 +258,16 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_tip/tip2021.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_tip/tip2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
+**SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
   
-*IEEE Transactions on Image Processing (**TIP**), 2021*
+*IEEE Transactions on Image Processing (**TIP**), 2020*
   
-**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
+**Ru Li**, Chi-Hao Wu,  Shuaicheng Liu, Jue Wang, Guangfu Wang, Guanghui Liu, Bing Zeng
   
-[Paper](collections/2021_tip/tip2021.pdf) \|  [Code](https://github.com/liru0126/JigsawGAN) \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2020_tip/tip2020.pdf) \| [Code](https://github.com/liru0126/SDP-GAN) \| [BibTex](collections/2020_tip/tip2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -272,21 +287,6 @@ Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
 </div>
 
 **2020**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_tip/tip2020.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
-  
-*IEEE Transactions on Image Processing (**TIP**), 2020*
-  
-**Ru Li**, Chi-Hao Wu,  Shuaicheng Liu, Jue Wang, Guangfu Wang, Guanghui Liu, Bing Zeng
-  
-[Paper](collections/2020_tip/tip2020.pdf) \| [Code](https://github.com/liru0126/SDP-GAN) \| [BibTex](collections/2020_tip/tip2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
 
 <!-- ######################################################### -->
 
