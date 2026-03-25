@@ -215,7 +215,7 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
 **JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
   
-*IEEE Transactions on Image Processing (**TIP**), 2021*
+*IEEE Transactions on Image Processing (**TIP**), 2022*
   
 **Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
   
@@ -263,7 +263,7 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
 **SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
   
-*IEEE Transactions on Image Processing (**TIP**), 2020*
+*IEEE Transactions on Image Processing (**TIP**), 2021*
   
 **Ru Li**, Chi-Hao Wu,  Shuaicheng Liu, Jue Wang, Guangfu Wang, Guanghui Liu, Bing Zeng
   
