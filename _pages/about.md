@@ -26,6 +26,7 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
+- *2026.07*: &nbsp; One paper is accepted by ACMMM 2026.
 - *2026.02*: &nbsp; One paper is accepted by CVPR 2026.
 - *2025.09*: &nbsp; One paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
@@ -60,6 +61,21 @@ My research interest includes computer vision and computer graphics.
 *IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2026*
 
 Weiyu Zhao, **Ru Li**, Jiaqi Liu, Sizhe Zhao, Qinglin Liu, Shengping Zhang
+  
+Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026_acmmm/2026_acmmm.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**From Gaussians to Graphs: Open-Vocabulary 3D Scene Graph Generation for Scene Understanding** 
+  
+*ACM International Conference on Multimedia (**ACMMM**), 2026*
+
+Jinyuan Wu, Weiyu Zhao, Qinglin Liu, **Ru Li**
   
 Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
