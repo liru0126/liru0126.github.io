@@ -62,7 +62,7 @@ My research interest includes computer vision and computer graphics.
 
 Weiyu Zhao, **Ru Li**, Jiaqi Liu, Sizhe Zhao, Qinglin Liu, Shengping Zhang
   
-Paper \| [Video](https://www.youtube.com/watch?v=HKZObJoWJ2M) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2026_cvpr/2026_cvpr.pdf) \| [Video](https://www.youtube.com/watch?v=HKZObJoWJ2M) \| Code \| [BibTex](collections/2026_cvpr/2026_cvpr.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
