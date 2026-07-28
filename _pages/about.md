@@ -412,13 +412,14 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 - *2018.09 - 2022.12* \| Ph.D. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
 - *2016.09 - 2018.06* \| M.Sc. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
 - *2012.09 - 2016.06* \| B.E. \| [China University of Petroleum (UPC)](https://www.upc.edu.cn)
-- *2019.07 - 2019.10* \| visiting student \| [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
+- *2019.07 - 2019.10* \| Visiting student \| [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
 
 # Experience
 - *2023.03-present* \| Assistant Professor \| [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn)
 - *2018.03-2022.12* \| Intern \| Megvii Research
 
 # Academic Services
-**Conferences:** CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, PG, IROS, ICASSP, etc.
+- **Conferences:** CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, PG, IROS, ICASSP, etc.
 
-**Journals:** TCSVT, SPL, CGF, GRSL, AIR, etc.
+- **Journals:** TCSVT, SPL, CGF, GRSL, AIR, etc.
+
