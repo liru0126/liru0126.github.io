@@ -420,6 +420,5 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 
 # Academic Services
 - **Conferences:** CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, PG, IROS, ICASSP, etc.
-
 - **Journals:** TCSVT, SPL, CGF, GRSL, AIR, etc.
 
