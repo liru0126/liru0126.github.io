@@ -259,21 +259,6 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_acmmm/acmmm2021.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Image Style Transfer with Generative Adversarial Networks** 
-  
-*ACM Multimedia Doctor Symposium (**ACMMM**), 2021*
-  
-**Ru Li**
-  
-[Paper](collections/2021_acmmm/acmmm2021.pdf) \| Code \| [BibTex](collections/2021_acmmm/acmmm2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2020_tip/tip2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -299,6 +284,21 @@ Ting Jiang, Chuan Wang, Xinpeng Li, **Ru Li**, Haoqiang Fan, Shuaicheng Liu
 Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
   
 [Paper](collections/2021_tcsvt/sun_tcsvt2021.pdf) \| Code \| [BibTex](collections/2021_tcsvt/sun_tcsvt2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_acmmm/acmmm2021.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Image Style Transfer with Generative Adversarial Networks** 
+  
+*ACM Multimedia Doctor Symposium (**ACMMM**), 2021*
+  
+**Ru Li**
+  
+[Paper](collections/2021_acmmm/acmmm2021.pdf) \| Code \| [BibTex](collections/2021_acmmm/acmmm2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
