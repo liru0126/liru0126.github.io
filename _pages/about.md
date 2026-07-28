@@ -422,12 +422,3 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 **Conferences:** CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, PG, IROS, ICASSP, etc.
 
 **Journals:** TCSVT, SPL, CGF, GRSL, AIR, etc.
-
-# Projects
-**2018.09-2018.12, Driver Monitor System (DMS)**
-- Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
-<div>
-       <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
-</div>
