@@ -58,7 +58,7 @@ My research interest includes computer vision and computer graphics.
 
 **G$^{2}$S$^{2}$-IR: Glocal Gaussian Splatting with Surface Awareness for Inverse Rendering** 
   
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026*
+*International Journal of Computer Vision (**IJCV**), 2026*
 
 Junnan Li, Shengping Zhang, **Ru Li**, Shunyuan Zheng, Chenyang Wang, Henglu Wei, Xiangyang Ji
   
