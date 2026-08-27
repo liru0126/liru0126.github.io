@@ -26,9 +26,9 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
+- *2026.08*: &nbsp; One paper is accepted by International Journal of Computer Vision (IJCV).
 - *2026.07*: &nbsp; One paper is accepted by ACMMM 2026.
 - *2026.02*: &nbsp; One paper is accepted by CVPR 2026.
-- *2025.09*: &nbsp; One paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 <span class='anchor' id='selected-publications'></span>
 
