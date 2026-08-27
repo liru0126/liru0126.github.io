@@ -56,7 +56,7 @@ My research interest includes computer vision and computer graphics.
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026_ijcv/2026_ijcv.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**G2S2-IR: Glocal Gaussian Splatting with Surface Awareness for Inverse Rendering** 
+**G$^{2}$S$^{2}$-IR: Glocal Gaussian Splatting with Surface Awareness for Inverse Rendering** 
   
 *International Journal of Computer Vision (**IJCV**), 2026*
 
