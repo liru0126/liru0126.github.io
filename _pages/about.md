@@ -26,6 +26,7 @@ My research interest includes computer vision and computer graphics.
 
 
 # News
+- *2026.10*: &nbsp; One paper is accepted by WACV 2027.
 - *2026.08*: &nbsp; One paper is accepted by International Journal of Computer Vision (IJCV).
 - *2026.07*: &nbsp; One paper is accepted by ACMMM 2026.
 - *2026.02*: &nbsp; One paper is accepted by CVPR 2026.
@@ -93,6 +94,21 @@ Weiyu Zhao, **Ru Li**, Jiaqi Liu, Sizhe Zhao, Qinglin Liu, Shengping Zhang
 Jinyuan Wu, Weiyu Zhao, Qinglin Liu, **Ru Li**
   
 Paper \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2027_wacv/2027_wacv.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling** 
+  
+*IEEE/CVF Winter Conference on Applications of Computer Vision​​ (**WACV**), 2027*
+
+Yifei Qu, **Ru Li**, Junjie Chen, Jinyuan Wu
+  
+[Paper](https://arxiv.org/pdf/2606.25732) \| [Code](https://github.com/sc-30-bit/PGL-Net) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
